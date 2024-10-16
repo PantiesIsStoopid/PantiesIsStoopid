@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**PantiesIsStoopid/PantiesIsStoopid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring man who wants to work in robotics. I know and use:
 
-Here are some ideas to get you started:
+- **Arduino**
+- **PowerShell**
+- **Python**
+- **HTML**
+- **CSS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have also mastered **BASIC**.
+
+## Projects 🚀
+
+My favorite projects I've made are:
+
+- **AI Flappy Bird**
+- **PowerShell Profile** (which is incredibly perfect!)
+
+## Expertise 💻
+
+I specialize in making hardware using the **28x2 chip** with BASIC.
+
+## About Me 📚
+
+I’m currently in high school in the UK and enjoy learning new things related to computers and engineering. 
+
+## GitHub Contributions 🌟
+
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=PantiesIsStoopid&show_icons=true&count_private=true)
+
+
+Feel free to reach out to help me make new apps—I hate doing documentation!
