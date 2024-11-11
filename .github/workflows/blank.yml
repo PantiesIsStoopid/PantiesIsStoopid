@@ -30,7 +30,7 @@ jobs:
           token: ${{ secrets.METRICSTOKEN }}
 
           # Options
-          template: classic
+        template: classic
           base: header, activity, community, repositories, metadata
           base_hireable: yes
           config_octicon: yes
@@ -72,24 +72,6 @@ jobs:
           plugin_people_types: followers, following
           plugin_projects: yes
           plugin_projects_limit: 4
-          plugin_skyline: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
-          plugin_skyline_settings: {
-  "url": "https://skyline.github.com/${login}/${year}",
-  "ready": "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')",
-  "wait": 1,
-  "hide": "button, footer, a"
-}
-
-          plugin_skyline_year: 1
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_traffic: yes
-
-
-
-
-
-
-          
