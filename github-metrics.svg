@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3576" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4079" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.starlist{padding-left:28px;width:460px}.starlist&gt;.count,.starlist&gt;.description{margin-left:32px}.starlist&gt;.count{font-size:12px;color:#666}.starlist .repositories{margin-left:-5px;margin-bottom:20px}.starlist .repository{margin:6px 0 0}.starlist .repository .description,.starlist .repository .infos{font-size:11px}.starlist .repository .name{font-size:14px}.starlist .languages{margin-top:6px;padding-left:13px}.starlist .languages svg.bar{margin-left:18px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.number,.token.string{color:#2777aa}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.starlist{padding-left:28px;width:460px}.starlist&gt;.count,.starlist&gt;.description{margin-left:32px}.starlist&gt;.count{font-size:12px;color:#666}.starlist .repositories{margin-left:-5px;margin-bottom:20px}.starlist .repository{margin:6px 0 0}.starlist .repository .description,.starlist .repository .infos{font-size:11px}.starlist .repository .name{font-size:14px}.starlist .languages{margin-top:6px;padding-left:13px}.starlist .languages svg.bar{margin-left:18px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.boolean{color:#2777aa}.token.coord{color:#d2a8ff;font-weight:700}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    37.4k added, 34.6k removed
+                                    5.80k added, 89 removed
                                 </div>
                             </section>
                             <section>
@@ -2740,23 +2740,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>Alex313031/thorium</span>
+                                                <span>LeDragoX/Win-Debloat-Tools</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.</div>
+                                        <div class="field description">Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                C++
+                                                PowerShell
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                5.12k
+                                                5.51k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -2786,17 +2786,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>jamesqquick/read-me-template</span>
+                                                <span>ventoy/Ventoy</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">This is a template to be used when creating ReadMe files for your Github repositories.</div>
+                                        <div class="field description">A new bootable USB solution.</div>
                                         <div class="field infos">
+                                            <div class="language">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                </svg>
+                                                C
+                                            </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                104
+                                                63.5k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -2814,28 +2820,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>kestra-io/kestra</span>
+                                                <span>maybe-finance/maybe</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#FFAC33" d="M32.938 15.651C32.792 15.26 32.418 15 32 15H19.925L26.89 1.458c.219-.426.106-.947-.271-1.243C26.437.071 26.218 0 26 0c-.233 0-.466.082-.653.243L18 6.588 3.347 19.243c-.316.273-.43.714-.284 1.105S3.582 21 4 21h12.075L9.11 34.542c-.219.426-.106.947.271 1.243.182.144.401.215.619.215.233 0 .466-.082.653-.243L18 29.412l14.653-12.655c.317-.273.43-.714.285-1.106z"/>
-                                            </svg>
-                                            Workflow Automation Platform. Orchestrate &amp; Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
-                                        </div>
+                                        <div class="field description">The OS for your personal finances</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                Java
+                                                Ruby
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                14.6k
+                                                34.4k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -2867,308 +2868,17 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 509 commits in
+                                        Pushed 116 commits in
                                         <span class="repo">PantiesIsStoopid/Chromium</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c0917b4</div>
-                                        <div class="message">[WebView] Add shouldEnableChips method for CHIPS.
-
-WebViewChromiuFactoryProvider will have a method to determine the
-default CHIPS setting. This will be utilized when there is no
-configuration provided by the app for CHIPS settings. This will be
-turned to on-by-default for apps targeting Android B. This method
-enables WebView to determine when it is on-by-default.
-
-Test: N/A
-Bug: 380890146
-Change-Id: Ie3b9d43ab3dd484af999613328fc03445d38d85e
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6092202
-Reviewed-by: Richard (Torne) Coles &lt;torne@chromium.org&gt;
-Auto-Submit: Adam Walls &lt;avvall@chromium.org&gt;
-Commit-Queue: Adam Walls &lt;avvall@chromium.org&gt;
-Cr-Commit-Position: refs/heads/main@{#1396021}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2147d42</div>
-                                        <div class="message">[PS Sentiment Survey] Add PSD detailing the Chrome Channel
-
-Bug: 383775593
-Change-Id: I786417e5c1ce36add91d167293c3dc7c1681687c
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6088007
-Code-Coverage: findit-for-me@appspot.gserviceaccount.com &lt;findit-for-me@appspot.gserviceaccount.com&gt;
-Reviewed-by: Abe Boujane &lt;boujane@google.com&gt;
-Commit-Queue: Alvin Lam &lt;alvingo@google.com&gt;
-Reviewed-by: Martin Šrámek &lt;msramek@chromium.org&gt;
-Cr-Commit-Position: refs/heads/main@{#1396020}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec085ce</div>
-                                        <div class="message">Refactor educational tips to work with merged ranking
-
-We need more clean up in educational tips code base to remove the
-Tip enum and use a single enum. This will be done in follow ups.
-
-- Make each tip a different module so its cleaner to handle ranking
-  logic in one place.
-- Enable support for showing multiple ephemeral cards in ntp.
-- Deprecate EDUCATIONAL_TIP module type. And Fix the logic related to
-  iterating enums incrementally, added utility to fetch active modules.
-- Remove special case handling of EDUCATIONAL_TIP module in magic stack
-  code base, only the ranker deals with the complexity for ephemeral
-  modules.
-- Move the logic to notify card being shown and card clicked into home
-  delegate and the home mediator sends these to native.
-  onModuleClicked() and onModuleBuilt() already existed.
-
-Bug: 382803396
-
-Change-Id: I16f0dd5ac316b90ff36e064dc57caf20d19e251e
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6089471
-Reviewed-by: David Trainor &lt;dtrainor@chromium.org&gt;
-Reviewed-by: Xinyi Ji &lt;xinyiji@chromium.org&gt;
-Commit-Queue: Siddhartha S &lt;ssid@chromium.org&gt;
-Reviewed-by: Xi Han &lt;hanxi@chromium.org&gt;
-Cr-Commit-Position: refs/heads/main@{#1396019}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0ff562a</div>
-                                        <div class="message">[sampling profiler] Unify core unwinder creation logic
-
-Unifies down to one method for handling of unwinder creation within the
-StackSampler. Cleanly separates out Android unwinder creation logic
-from the non-Android logic, using platform-specific files rather
-than ifdefs. The Android unwinder creation must be done in //chrome
-since it depends on //chrome features (e.g. a dynamic feature module),
-while the non-Android creation only depends on //base.
-
-Note that it's possible to unify all the profiler creation within
-//chrome. That's undesirable, however, because it would require
-moving the StackSamplingProfiler integration testing from //base
-into //chrome, even though it's exercising functionality that only
-lives in //base.
-
-This CL retains some ANDROID preprocessor conditionals in the
-_android files for the time being, to reduce the total size of this
-change. These will be cleaned up in a follow-on CL.
-
-Bug: 380487894
-Change-Id: I5bef712964b837392af0de5cca225b8455ce2de5
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6072266
-Reviewed-by: Kartar Singh &lt;kartarsingh@google.com&gt;
-Reviewed-by: Lei Zhang &lt;thestig@chromium.org&gt;
-Auto-Submit: Mike Wittman &lt;wittman@chromium.org&gt;
-Commit-Queue: Mike Wittman &lt;wittman@chromium.org&gt;
-Cr-Commit-Position: refs/heads/main@{#1396018}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e8a829</div>
-                                        <div class="message">Remove printing directories from build/config/unsafe_buffers_paths.txt
-
-Rely on allow_unsafe_buffers pragma instead.
-
-Bug: 383824575
-Change-Id: I2b1331241719ec23a209e435f95a30a468ac61bb
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6092199
-Commit-Queue: Lei Zhang &lt;thestig@chromium.org&gt;
-Reviewed-by: Tom Sepez &lt;tsepez@chromium.org&gt;
-Cr-Commit-Position: refs/heads/main@{#1396017}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4870a3b</div>
-                                        <div class="message">Avoid stacking of HangWatcher trace events
-
-Change-Id: Ic096391c1ea92b7bdd1ae2b2fdae2d09adc4b378
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6087953
-Reviewed-by: Etienne Pierre-Doray &lt;etiennep@chromium.org&gt;
-Commit-Queue: Olivier Li &lt;olivierli@chromium.org&gt;
-Cr-Commit-Position: refs/heads/main@{#1396016}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#596f891</div>
-                                        <div class="message">[Compare] Add comparison table list item element
-
-This patch adds the comparison table list item element that will be
-displayed in the list of comparison tables next to the empty table.
-This element displays a table's name, URL, number of items, and first
-product image.
-
-http://screen/7NVXPYDfNiXfAk4
-
-Bug: 377939401
-Change-Id: Iceeb7c29f411a9efde3239e150497e5b1abd2d3b
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6090390
-Commit-Queue: Chase Hartsell &lt;chazzy@chromium.org&gt;
-Reviewed-by: Matthew Jones &lt;mdjones@chromium.org&gt;
-Cr-Commit-Position: refs/heads/main@{#1396015}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#10e619b</div>
-                                        <div class="message">Change PolicyBlocklistMetrics to use a void* user data key
-
-Any unique number can be used for the key, but it seems using
-a pointer that points itself is a well-known best practice.
-
-Change-Id: Iaec41ee4105d4e96e63ee9e2c1c00a9781861c86
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6075419
-Commit-Queue: Yann Dago &lt;ydago@chromium.org&gt;
-Auto-Submit: Takashi Toyoshima &lt;toyoshim@chromium.org&gt;
-Code-Coverage: findit-for-me@appspot.gserviceaccount.com &lt;findit-for-me@appspot.gserviceaccount.com&gt;
-Reviewed-by: Yann Dago &lt;ydago@chromium.org&gt;
-Cr-Commit-Position: refs/heads/main@{#1396014}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#243c30d</div>
-                                        <div class="message">[InputVizard] Notifies Viz of mobile site optimized pages.
-
-This CL adds `NotifySiteIsMobileOptimized` method to
-RenderInputRouterDelegate interface to allow Viz to be informed of pages
-which are mobile-optimized. This allows mirroring the current state in
-the Browser where RenderInputRouters/InputRouterImpls get updated from
-the renderer via `OnRenderFrameMetadataChanged` mojo message by syncing
-these updates to Viz with InputVizard.
-
-Bug: b:377625588
-Change-Id: Ic782c3849b951add913a5edde9a9c683fa6e137b
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6087808
-Commit-Queue: Aman Verma &lt;amanvr@google.com&gt;
-Reviewed-by: Stephen Nusko &lt;nuskos@chromium.org&gt;
-Reviewed-by: Mike West &lt;mkwst@chromium.org&gt;
-Reviewed-by: Jonathan Ross &lt;jonross@chromium.org&gt;
-Cr-Commit-Position: refs/heads/main@{#1396013}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d03272a</div>
-                                        <div class="message">Roll clank/internal/apps from 1f542273e647 to 5f7fdd424e8a (1 revision)
-
-https://chrome-internal.googlesource.com/clank/internal/apps.git/+log/1f542273e647..5f7fdd424e8a
-
-If this roll has caused a breakage, revert this CL and stop the roller
-using the controls here:
-https://skia-autoroll.corp.goog/r/clank-apps-chromium-autoroll
-Please CC chrome-brapp-engprod@google.com,dewittj@google.com on the revert to ensure that a human
-is aware of the problem.
-
-To report a problem with the AutoRoller itself, please file a bug:
-https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
-
-Documentation for the AutoRoller is here:
-https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
-
-Bug: None
-Tbr: dewittj@google.com
-No-Try: true
-Change-Id: I290fdde7f0de75c0229579dee88c4b453d1dabb8
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6093989
-Commit-Queue: chromium-internal-autoroll &lt;chromium-internal-autoroll@skia-corp.google.com.iam.gserviceaccount.com&gt;
-Bot-Commit: chromium-internal-autoroll &lt;chromium-internal-autoroll@skia-corp.google.com.iam.gserviceaccount.com&gt;
-Cr-Commit-Position: refs/heads/main@{#1396012}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#19ebf06</div>
-                                        <div class="message">Reland "[a11y-mv3]: migrate network tts to mv3"
-
-Original change
-https://chromium-review.googlesource.com/c/chromium/src/+/5792343
-
-Bug: 383109819
-Test: cq; fully described in original doc; tested with and without the feature flag manually.
-https: //docs.google.com/document/d/1L0i2mJ4kERqNjM3zeJqZIue5BapAa-NgA00K04Gzag0/edit?tab=t.0
-Change-Id: Id7b4ab643e4cf442aa9e3934142be590f13e365f
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6078305
-Reviewed-by: Devlin Cronin &lt;rdevlin.cronin@chromium.org&gt;
-Commit-Queue: David Tseng &lt;dtseng@chromium.org&gt;
-Reviewed-by: Akihiro Ota &lt;akihiroota@chromium.org&gt;
-Reviewed-by: Kyle Horimoto &lt;khorimoto@chromium.org&gt;
-Cr-Commit-Position: refs/heads/main@{#1396011}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2423fe0</div>
-                                        <div class="message">Remove ::picker-icon for &lt;select multiple&gt;
-
-Change-Id: I0d0734bc7d075e333d7e6a34ea55e2214476b1b2
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6089642
-Reviewed-by: Traian Captan &lt;tcaptan@chromium.org&gt;
-Commit-Queue: Joey Arhar &lt;jarhar@chromium.org&gt;
-Cr-Commit-Position: refs/heads/main@{#1396010}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2549447</div>
-                                        <div class="message">Roll Media App from 7_iT9doRGgwQb7-xi... to ebH1PngIuRIgUIzMs...
-
-Release_Notes: http://go/media_app-x20/relnotes/Main/media_app_202412130600_RC00.html
-
-https://chrome-infra-packages.appspot.com/p/chromeos_internal/apps/media_app/app/+/ebH1PngIuRIgUIzMs8wgjqL4yq_0E9lfJiqlTG40g14C
-
-If this roll has caused a breakage, revert this CL and stop the roller
-using the controls here:
-https://skia-autoroll.corp.goog/r/media-app-chromium-autoroll
-Please CC cros-essential-apps-dev@chromium.org,jomag@google.com,media-app@grotations.appspotmail.com on the revert to ensure that a human
-is aware of the problem.
-
-To report a problem with the AutoRoller itself, please file a bug:
-https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
-
-Documentation for the AutoRoller is here:
-https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
-
-Cq-Include-Trybots: luci.chrome.try:chromeos-betty-chrome;luci.chrome.try:linux-chromeos-chrome
-Bug: None
-Tbr: media-app@grotations.appspotmail.com
-Change-Id: I315f420d8ecd608b8410b435789737a470d92cb7
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6093060
-Bot-Commit: chromium-internal-autoroll &lt;chromium-internal-autoroll@skia-corp.google.com.iam.gserviceaccount.com&gt;
-Commit-Queue: chromium-internal-autoroll &lt;chromium-internal-autoroll@skia-corp.google.com.iam.gserviceaccount.com&gt;
-Cr-Commit-Position: refs/heads/main@{#1396009}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9fb80fa</div>
-                                        <div class="message">[flex] Remove FlexibleBoxAlgorithm::style_
-
-To do this shift ShouldApplyMinSizeAutoForChild to FlexLayoutAlgorithm
-
-There should be no behaviour change.
-
-Change-Id: Ie812b15913cf8e42e5be993404a2518ec9601c52
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6091640
-Commit-Queue: David Grogan &lt;dgrogan@chromium.org&gt;
-Reviewed-by: David Grogan &lt;dgrogan@chromium.org&gt;
-Cr-Commit-Position: refs/heads/main@{#1396008}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8ee29d4</div>
-                                        <div class="message">Make closeWatcher.requestClose() not require user activation
-
-Per the conversation here:
-
-https://github.com/openui/open-ui/issues/1128#issuecomment-2539519339
-
-There's a desire to ship closeWatcher.requestClose() along with
-dialog.requestclose() both not requiring user activation.
-
-The spec PR has been updated accordingly:
-https://github.com/whatwg/html/pull/10737
-
-(in this commit:
-https://github.com/whatwg/html/pull/10737/commits/76619aa99f37cef85be93ff98fadd03284347008)
-
-Fixed: 383593252
-Change-Id: I8c05e352d8b4964407a1cee36f35372e192e2ca5
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6092173
-Auto-Submit: Mason Freed &lt;masonf@chromium.org&gt;
-Reviewed-by: David Baron &lt;dbaron@chromium.org&gt;
-Reviewed-by: Mason Freed &lt;masonf@chromium.org&gt;
-Commit-Queue: Mason Freed &lt;masonf@chromium.org&gt;
-Cr-Commit-Position: refs/heads/main@{#1396007}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cf18036</div>
+                                        <div class="sha">#66e2735</div>
                                         <div class="message">Roll Chrome Android ARM64 PGO Profile
 
-Roll Chrome Android ARM64 PGO profile from chrome-android64-main-1734098761-6a5c3cb0a814057dcb2a4d04f87a131ad8213cab-0e962d81925371f27fbf16230d8093beb46030d1.profdata to chrome-android64-main-1734104379-22cc85319d20b4703167010a4bb4ef0463ca2f7e-e07fec3f97543ac4600ce1d75debeb994f1a9dd0.profdata
+Roll Chrome Android ARM64 PGO profile from chrome-android64-main-1734302615-52b31010cec951c3c6425d2db7d22fb8958db7b9-9360d08502357e2ea00f4f052bb6a8ca9277e27a.profdata to chrome-android64-main-1734305273-c70c8f94816d5e76700cdd100b2efdf6c6935ee0-c2365ea17cbcbf3803885f5dbbc49a61f9a672d2.profdata
 
 If this roll has caused a breakage, revert this CL and stop the roller
 using the controls here:
@@ -3185,60 +2895,328 @@ Documentation for the AutoRoller is here:
 https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
 
 Tbr: pgo-profile-sheriffs@google.com
-Change-Id: If79ae5694cc5933f0a712954b07f18ec8ce75e60
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6093517
+Change-Id: I3e771abfd8fb93dd81a0169efaa1413a93bc2486
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6095901
 Commit-Queue: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
 Bot-Commit: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Cr-Commit-Position: refs/heads/main@{#1396006}</div>
+Cr-Commit-Position: refs/heads/main@{#1396530}</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#093d20a</div>
-                                        <div class="message">Code Health: Clean up stale Prerender2EmbedderBlockedHosts
+                                        <div class="sha">#ebdfcf1</div>
+                                        <div class="message">Add scoped access class for raster
 
-Bug: 356200701
-Change-Id: I02c9e0323c210960b1013123f452e6a386080d92
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6086563
-Reviewed-by: Hiroki Nakagawa &lt;nhiroki@chromium.org&gt;
-Reviewed-by: Danil Somsikov &lt;dsv@chromium.org&gt;
-Commit-Queue: Nathan Memmott &lt;memmott@chromium.org&gt;
-Cr-Commit-Position: refs/heads/main@{#1396005}</div>
+This CL adds the RasterScopedAccess class which wraps the SyncToken
+waiting/generation calls on the raster interface.
+
+Bug: 40286368
+Change-Id: I8bcafeb5074298a5facfa6574d619090d96c0d3e
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6091115
+Reviewed-by: Vasiliy Telezhnikov &lt;vasilyt@chromium.org&gt;
+Commit-Queue: Mingjing Zhang &lt;mjzhang@chromium.org&gt;
+Cr-Commit-Position: refs/heads/main@{#1396529}</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#6e0adab</div>
-                                        <div class="message">[Protected Audience] KVv2 cache request batching, part 3
+                                        <div class="sha">#0e4f71a</div>
+                                        <div class="message">Use static_assert to avoid dead-code warnings
 
-Make InterestGroupAuction only trigger TrustedSignalsCacheImpl
-scoring fetches once all bids have been generated. Note that there's
-also a 10 millisecond timer to automatically trigger them incrementally
-as bids trickle in.
+Instead of CHECK(sizeof(size_t) == sizeof(uint32_t)) use a static_assert
+to make sure that size_t is either 32 or 64 bit. This prevents a
+dead-code warning on systems where sizeof(size_t) != sizeof(uint32_t).
 
-In practice, this will likely still result in sending scoring
-signals requests individually, but it matches KVv1 behavior, and lets
-us tweak the timers correspondingly if we so decide.
-
-Bug: 376287195
-Change-Id: Ia7a3bc648c46adc7cde324c8f49a491511515208
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6089376
-Commit-Queue: mmenke &lt;mmenke@chromium.org&gt;
-Reviewed-by: Maks Orlovich &lt;morlovich@chromium.org&gt;
-Cr-Commit-Position: refs/heads/main@{#1396004}</div>
+Bug: 384277482
+Change-Id: I5390b4861a83182c9bae47fcb0df32b53f488dd6
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6091276
+Reviewed-by: Nico Weber &lt;thakis@chromium.org&gt;
+Auto-Submit: Peter Boström &lt;pbos@chromium.org&gt;
+Commit-Queue: Nico Weber &lt;thakis@chromium.org&gt;
+Cr-Commit-Position: refs/heads/main@{#1396528}</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b9fb9ae</div>
-                                        <div class="message">Roll V8 from 742cfa6fc61c to 113810dcadad (5 revisions)
+                                        <div class="sha">#8ec16c8</div>
+                                        <div class="message">Move Quick Insert feature tour pref to ash_pref_names.
 
-https://chromium.googlesource.com/v8/v8.git/+log/742cfa6fc61c..113810dcadad
+Bug: b:369942539
+Change-Id: I613ac435b81a06f5f7ba7455f383b59f213d206d
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6090076
+Reviewed-by: Xiyuan Xia &lt;xiyuan@chromium.org&gt;
+Reviewed-by: Michael Cui &lt;mlcui@google.com&gt;
+Commit-Queue: Darren Shen &lt;shend@chromium.org&gt;
+Cr-Commit-Position: refs/heads/main@{#1396527}</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a5076b7</div>
+                                        <div class="message">Replace QuickInsertClient::GetPrefs with GetLastActiveUserProfile
 
-2024-12-13 v8-ci-autoroll-builder@chops-service-accounts.iam.gserviceaccount.com Version 13.3.327
-2024-12-13 mlippautz@chromium.org third_party: Move valgrind
-2024-12-13 olivf@chromium.org [turboshaft] string escape analysis: fix GetDuplicatedIdForElidedString
-2024-12-13 mfarazma@redhat.com skip using asm/hwcap.h on ppc64/s390x
-2024-12-13 jkummerow@chromium.org Reland "[wasm][sandbox] Harden WasmTableObject::type() some more"
+This removes the another browser dependency of Quick Insert.
+
+Bug: b:369942539
+Change-Id: I2ff3a371f0217c0d58f9d14af6641e4e81707b96
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6090687
+Commit-Queue: Darren Shen &lt;shend@chromium.org&gt;
+Reviewed-by: Michael Cui &lt;mlcui@google.com&gt;
+Cr-Commit-Position: refs/heads/main@{#1396526}</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b2a49d</div>
+                                        <div class="message">scanner: Update smart actions button text and icon.
+
+From the latest UX, we will tentatively make the smart actions button a
+text-only button instead of an icon-only button.
+
+Bug: b:383432190
+Change-Id: Iefaf848d3d44862cc8b6aec82e625ab4564f9d30
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6086879
+Commit-Queue: Michelle Chen &lt;michellegc@google.com&gt;
+Reviewed-by: Ahmed Fakhry &lt;afakhry@chromium.org&gt;
+Reviewed-by: Sophie Wen &lt;sophiewen@chromium.org&gt;
+Cr-Commit-Position: refs/heads/main@{#1396525}</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f1e1b64</div>
+                                        <div class="message">Gardener: Mark select-appearance-font-inheriting.tentative.html as flaky
+
+external/wpt/html/semantics/forms/the-select-element/customizable-select/select-appearance-font-inheriting.tentative.html
+is flaky on mac12-arm64-rel-tests:
+https://ci.chromium.org/ui/p/chromium/builders/ci/mac12-arm64-rel-tests/35853/overview
+
+Bug: 384148150
+Change-Id: Ic31a8a3b53a0b7efebc6f7886fc5ced53ca0a163
+No-try: true
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6088724
+Commit-Queue: Nidhi Jaju &lt;nidhijaju@chromium.org&gt;
+Reviewed-by: Nidhi Jaju &lt;nidhijaju@chromium.org&gt;
+Auto-Submit: Hiroki Nakagawa &lt;nhiroki@chromium.org&gt;
+Cr-Commit-Position: refs/heads/main@{#1396524}</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#afc6008</div>
+                                        <div class="message">Use primary user prefs in QuickInsertController tests.
+
+Remove the testing prefs created in the fixture and use the
+primary user prefs provided by AshTestBase.
+
+This lets QuickInsertController to migrate to using the prefs
+provided by Ash shell instead of querying the prefs from the
+QuickInsertClient.
+
+Bug: b:369942539
+Change-Id: If503a5204169051bac88dca8bb1a6898a252a114
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6089735
+Commit-Queue: Darren Shen &lt;shend@chromium.org&gt;
+Reviewed-by: Michael Cui &lt;mlcui@google.com&gt;
+Cr-Commit-Position: refs/heads/main@{#1396523}</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d466591</div>
+                                        <div class="message">Gardener: Mark object-view-box-fit-fill-video.html as flaky
+
+virtual/gpu-rasterization/external/wpt/css/css-images/object-view-box-fit-fill-video.html
+is flaky on the Mac11 bot:
+https://ci.chromium.org/ui/p/chromium/builders/ci/Mac11%20Tests/33504/overview
+
+Bug: 381238355
+Change-Id: I1b6c205603084a77683490baeef1169326bd6c6a
+No-try: true
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6090384
+Reviewed-by: Keita Suzuki &lt;suzukikeita@chromium.org&gt;
+Commit-Queue: Hiroki Nakagawa &lt;nhiroki@chromium.org&gt;
+Cr-Commit-Position: refs/heads/main@{#1396522}</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#573683d</div>
+                                        <div class="message">Roll Chrome Android ARM64 PGO Profile
+
+Roll Chrome Android ARM64 PGO profile from chrome-android64-main-1734296871-70288e517724ab6190dd7971472383c197737773-a6765333ff447aa16347821a705aceae2e9b8cab.profdata to chrome-android64-main-1734302615-52b31010cec951c3c6425d2db7d22fb8958db7b9-9360d08502357e2ea00f4f052bb6a8ca9277e27a.profdata
 
 If this roll has caused a breakage, revert this CL and stop the roller
 using the controls here:
-https://autoroll.skia.org/r/v8-chromium-autoroll
-Please CC liviurau@google.com,machenbach@google.com,v8-waterfall-gardener@grotations.appspotmail.com on the revert to ensure that a human
+https://autoroll.skia.org/r/pgo-android-arm64-chromium
+Please CC chrome-brapp-engprod@google.com,pgo-profile-sheriffs@google.com on the revert to ensure that a human
+is aware of the problem.
+
+To file a bug in Chromium main branch: https://bugs.chromium.org/p/chromium/issues/entry
+
+To report a problem with the AutoRoller itself, please file a bug:
+https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
+
+Documentation for the AutoRoller is here:
+https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
+
+Tbr: pgo-profile-sheriffs@google.com
+Change-Id: I8c915421a5ba4618a49a3b05d165a780a0ab067c
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6095926
+Commit-Queue: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Bot-Commit: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Cr-Commit-Position: refs/heads/main@{#1396521}</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3466362</div>
+                                        <div class="message">Register all Ash prefs in QuickInsertController tests.
+
+The prefs::kEmojiPickerHistory is registered in //chrome/browser,
+so it had to be manually registered inside the Ash unit test
+fixture.
+
+It turns out there's a standard way to register browser prefs
+in Ash only for testing. Do that and remove the manual
+registration. This lets us use the full Ash pref registration
+code, which then lets us migrate to using the prefs provided by
+Ash shell.
+
+Bug: b:369942539
+Change-Id: Iabbe195a083fa9fdcdb7e3d4b68840f3eae29d18
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6090558
+Reviewed-by: Michael Cui &lt;mlcui@google.com&gt;
+Reviewed-by: Xiyuan Xia &lt;xiyuan@chromium.org&gt;
+Commit-Queue: Darren Shen &lt;shend@chromium.org&gt;
+Cr-Commit-Position: refs/heads/main@{#1396520}</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e499cf</div>
+                                        <div class="message">scanner: Close search panel when Scanner action button is pressed.
+
+We don't need to keep showing the search results panel if the user shows
+intent to perform a Scanner action instead.
+
+Bug: b:378023303
+Change-Id: I1572e001971af46680c8b206a339b4d1dcf2e5ed
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6087515
+Reviewed-by: Ahmed Fakhry &lt;afakhry@chromium.org&gt;
+Commit-Queue: Michelle Chen &lt;michellegc@google.com&gt;
+Reviewed-by: Sophie Wen &lt;sophiewen@chromium.org&gt;
+Cr-Commit-Position: refs/heads/main@{#1396519}</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2365ea</div>
+                                        <div class="message">Register all the Quick Insert prefs in unit test.
+
+In quick_insert_controller_unittest.cc, there is a weird pref
+registration hack whereby we register all but the pref controlling
+the first-use feature tour, so that the feature tour is bypassed
+for most test cases. For the test cases that need the feature tour,
+only then does it register the feature tour pref.
+
+This hack prevents us from using the prefs provided by AshTestBase
+because AshTestBase will register all the prefs, including the
+feature tour ones. Since we want to migrate to use the prefs
+provided by Ash shell, this hack needs to be removed.
+
+Move the feature tour to the header file, so that the test can
+simply control the feature tour pref by setting its boolean value
+(instead of using the register hack).
+
+Bug: b:369942539
+Change-Id: I5641007e3248c87d0933b787c6908e980f3bb51b
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6090736
+Commit-Queue: Darren Shen &lt;shend@chromium.org&gt;
+Reviewed-by: Michael Cui &lt;mlcui@google.com&gt;
+Cr-Commit-Position: refs/heads/main@{#1396518}</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3ad483c</div>
+                                        <div class="message">Roll BoringSSL from fa69468414ce to 676a8022db7b (2 revisions)
+
+https://boringssl.googlesource.com/boringssl.git/+log/fa69468414ce..676a8022db7b
+
+2024-12-15 davidben@google.com Remove alignment requirement on ghash-ssse3
+2024-12-15 davidben@google.com Move AES_KEY into GCM128_KEY, GCM128_KEY out of GCM128_CONTEXT
+
+If this roll has caused a breakage, revert this CL and stop the roller
+using the controls here:
+https://autoroll.skia.org/r/boringssl-chromium
+Please CC boringssl-cabal@google.com,boringssl@google.com on the revert to ensure that a human
+is aware of the problem.
+
+To file a bug in BoringSSL: https://crbug.com/boringssl/new
+To file a bug in Chromium: https://crbug.com/new
+
+To report a problem with the AutoRoller itself, please file a bug:
+https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
+
+Documentation for the AutoRoller is here:
+https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
+
+Tbr: boringssl-cabal@google.com
+Change-Id: I574a97461cfffc8aecd43f511739258206f81167
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6094880
+Commit-Queue: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Bot-Commit: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Cr-Commit-Position: refs/heads/main@{#1396517}</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#290d7ea</div>
+                                        <div class="message">Roll Chrome Android ARM64 PGO Profile
+
+Roll Chrome Android ARM64 PGO profile from chrome-android64-main-1734293037-7cefc158410cd014d90b1ac74368a6631b9896ac-f629f59210e8e08f11387002f03da285e4fb761f.profdata to chrome-android64-main-1734296871-70288e517724ab6190dd7971472383c197737773-a6765333ff447aa16347821a705aceae2e9b8cab.profdata
+
+If this roll has caused a breakage, revert this CL and stop the roller
+using the controls here:
+https://autoroll.skia.org/r/pgo-android-arm64-chromium
+Please CC chrome-brapp-engprod@google.com,pgo-profile-sheriffs@google.com on the revert to ensure that a human
+is aware of the problem.
+
+To file a bug in Chromium main branch: https://bugs.chromium.org/p/chromium/issues/entry
+
+To report a problem with the AutoRoller itself, please file a bug:
+https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
+
+Documentation for the AutoRoller is here:
+https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
+
+Tbr: pgo-profile-sheriffs@google.com
+Change-Id: I88c27ecf4556f07f1c8b79ebf3972cde55f3d3ff
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6095330
+Commit-Queue: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Bot-Commit: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Cr-Commit-Position: refs/heads/main@{#1396516}</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9360d08</div>
+                                        <div class="message">In-process fuzzers: multi-process mode, use for AX
+
+We have a variety of large browser-test-like fuzzers called in-process
+fuzzers (because the test code runs within the browser process).
+
+Up until now, they have run Chrome in --single-process mode. This has
+some advantages, most notably that code coverage can be collected from
+both browser and renderer code since it all runs in one place. This is
+crucial for fuzzers such as the HTML, JS, or WebIDL in-process fuzzers
+where a lot of the nuance is in testing handling of web content.
+
+However for our UI fuzzer, this is proving to be a disadvantage,
+because:
+* We hit some crashes which may be artifacts of single-process mode
+  rather than things which can be hit in real Chrome usage
+* Even for those bugs which probably do occur in real Chrome usage, it's
+  harder to triage them as it all adds uncertainty.
+* Collecting coverage information from the renderer code makes the
+  fuzzer slower.
+
+This CL introduces a mode by which in-process fuzzers can declare that
+they do not want to operate in single-process mode, then respects that
+choice.
+
+This CL also fixes a lifetime problem with the ContentMainDelegate,
+which should be owned by the caller of CreateContentMainDelegate.
+
+Cq-Include-Trybots: luci.chromium.try:linux-centipede-asan-rel,win-libfuzzer-asan-rel,linux-libfuzzer-asan-rel
+Bug: 382554725, 382453606, 341690720, 383356867
+Change-Id: I8c1219159b070b8541f756eb72adccf68c12ec47
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6088775
+Commit-Queue: Adrian Taylor &lt;adetaylor@chromium.org&gt;
+Reviewed-by: Paul Semel &lt;paulsemel@chromium.org&gt;
+Cr-Commit-Position: refs/heads/main@{#1396515}</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#19c70be</div>
+                                        <div class="message">Roll optimization-guide from 812a9a621eef to b1fb5d58cb23
+
+https://chrome-internal.googlesource.com/chrome/components/optimization_guide.git/+log/812a9a621eef..b1fb5d58cb23
+
+If this roll has caused a breakage, revert this CL and stop the roller
+using the controls here:
+https://skia-autoroll.corp.goog/r/optimization-guide-chromium
+Please CC chrome-intelligence-core@google.com,sophiechang@chromium.org on the revert to ensure that a human
 is aware of the problem.
 
 To report a problem with the AutoRoller itself, please file a bug:
@@ -3247,41 +3225,97 @@ https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
 Documentation for the AutoRoller is here:
 https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
 
-Cq-Include-Trybots: luci.chromium.try:linux-blink-rel;luci.chromium.try:linux_optional_gpu_tests_rel;luci.chromium.try:mac_optional_gpu_tests_rel;luci.chromium.try:win_optional_gpu_tests_rel;luci.chromium.try:android_optional_gpu_tests_rel;luci.chromium.try:dawn-linux-x64-deps-rel
-Change-Id: I7c25b5cbcb1705a889869318898e580db0f8e9f5
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6093433
-Commit-Queue: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Bug: None
+Change-Id: Iaad37afb65fd65ef788798e101cde83536d55789
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6095920
+Commit-Queue: chromium-internal-autoroll &lt;chromium-internal-autoroll@skia-corp.google.com.iam.gserviceaccount.com&gt;
+Bot-Commit: chromium-internal-autoroll &lt;chromium-internal-autoroll@skia-corp.google.com.iam.gserviceaccount.com&gt;
+Cr-Commit-Position: refs/heads/main@{#1396514}</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#30a5ddb</div>
+                                        <div class="message">Roll ios_internal from 9397b660938e to fb42681d3c9b
+
+https://chrome-internal.googlesource.com/chrome/ios_internal.git/+log/9397b660938e..fb42681d3c9b
+
+If this roll has caused a breakage, revert this CL and stop the roller
+using the controls here:
+https://skia-autoroll.corp.goog/r/ios-internal-chromium-autoroll
+Please CC chrome-brapp-engprod@google.com,tmartino@google.com on the revert to ensure that a human
+is aware of the problem.
+
+To report a problem with the AutoRoller itself, please file a bug:
+https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
+
+Documentation for the AutoRoller is here:
+https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
+
+Bug: None
+Change-Id: Ic4422e3f83ba1b7204ceb2c5c7b5abd676d48a5a
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6095618
+Commit-Queue: chromium-internal-autoroll &lt;chromium-internal-autoroll@skia-corp.google.com.iam.gserviceaccount.com&gt;
+Bot-Commit: chromium-internal-autoroll &lt;chromium-internal-autoroll@skia-corp.google.com.iam.gserviceaccount.com&gt;
+Cr-Commit-Position: refs/heads/main@{#1396513}</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#37512a1</div>
+                                        <div class="message">Roll clank/internal/apps from ad1c5d4a6b8a to 8be9c6f0fe08 (1 revision)
+
+https://chrome-internal.googlesource.com/clank/internal/apps.git/+log/ad1c5d4a6b8a..8be9c6f0fe08
+
+If this roll has caused a breakage, revert this CL and stop the roller
+using the controls here:
+https://skia-autoroll.corp.goog/r/clank-apps-chromium-autoroll
+Please CC chrome-brapp-engprod@google.com on the revert to ensure that a human
+is aware of the problem.
+
+To report a problem with the AutoRoller itself, please file a bug:
+https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
+
+Documentation for the AutoRoller is here:
+https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
+
+Bug: None
+Tbr: 
+No-Try: true
+Change-Id: I663ff0d7b3e300a1f7fc7bbb7e328cb1aa90291d
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6095785
+Commit-Queue: chromium-internal-autoroll &lt;chromium-internal-autoroll@skia-corp.google.com.iam.gserviceaccount.com&gt;
+Bot-Commit: chromium-internal-autoroll &lt;chromium-internal-autoroll@skia-corp.google.com.iam.gserviceaccount.com&gt;
+Cr-Commit-Position: refs/heads/main@{#1396512}</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e9300ee</div>
+                                        <div class="message">Roll Skia from c929ae45b3c4 to bd637efa526f (1 revision)
+
+https://skia.googlesource.com/skia.git/+log/c929ae45b3c4..bd637efa526f
+
+2024-12-15 skia-autoroll@skia-public.iam.gserviceaccount.com Roll vulkan-deps from dabbabd8a7bf to ae148686458b (1 revision)
+
+If this roll has caused a breakage, revert this CL and stop the roller
+using the controls here:
+https://autoroll.skia.org/r/skia-autoroll
+Please CC egdaniel@google.com,skiabot@google.com on the revert to ensure that a human
+is aware of the problem.
+
+To file a bug in Skia: https://bugs.chromium.org/p/skia/issues/entry
+To file a bug in Chromium: https://bugs.chromium.org/p/chromium/issues/entry
+
+To report a problem with the AutoRoller itself, please file a bug:
+https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
+
+Documentation for the AutoRoller is here:
+https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
+
+Cq-Include-Trybots: luci.chromium.try:android_optional_gpu_tests_rel;luci.chromium.try:gpu-fyi-cq-android-arm64;luci.chromium.try:linux-blink-rel;luci.chromium.try:linux-chromeos-compile-dbg;luci.chromium.try:linux_optional_gpu_tests_rel;luci.chromium.try:mac_optional_gpu_tests_rel;luci.chromium.try:win_optional_gpu_tests_rel
+Cq-Do-Not-Cancel-Tryjobs: true
+Bug: None
+Tbr: egdaniel@google.com
+Change-Id: I7ea974b9dca11e2aa22cbd263a1850b59662ca0f
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6095242
 Bot-Commit: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Cr-Commit-Position: refs/heads/main@{#1396003}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c47217f</div>
-                                        <div class="message">[a11y] Fixes line detection for arbitrarily nested lines
-
-The OnCurrentLine function in AxBlockFlowData
-incorrectly assumed a maximum of one level of line
-nesting. This led to incorrect line association
-for more complex layouts with deeper nesting
-(e.g., complex ruby text or multiple nested inline
-elements). This commit tracks the top-level line
-index during block flow processing, correctly
-handling any level of nesting.
-
-When the AxBlockFlowIterator flag is on, this fixes the following test:
-$ testing/xvfb.py  out/Release/content_shell \
---run-web-tests \
---enable-crash-reporter \
---force-renderer-accessibility \
---vmodule=ax_debug_utils=2  \
- --crash-dumps-dir=/tmp/test_crashes \
- external/wpt/css/css-ruby/ruby-intra-level-whitespace-003.html
-
-Change-Id: Ic0a97efb4cddaf8ee232393574eefbc22360a90b
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6090128
-Reviewed-by: Aaron Leventhal &lt;aleventhal@chromium.org&gt;
-Reviewed-by: Kevin Ellis &lt;kevers@chromium.org&gt;
-Commit-Queue: Aaron Leventhal &lt;aleventhal@chromium.org&gt;
-Cr-Commit-Position: refs/heads/main@{#1396002}</div>
+Commit-Queue: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Cr-Commit-Position: refs/heads/main@{#1396511}</div>
                                     </div>
                                 </div>
                             </section>
@@ -3293,15 +3327,47 @@ Cr-Commit-Position: refs/heads/main@{#1396002}</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PantiesIsStoopid/Nvidia-clips</span>
+                                        Pushed 9 commits in
+                                        <span class="repo">PantiesIsStoopid/GitCommit</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#722949e</div>
-                                        <div class="message">added clips and structure</div>
+                                        <div class="sha">#3c9d649</div>
+                                        <div class="message">Refactored code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7b595f</div>
+                                        <div class="message">Improved performance</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e96b22e</div>
+                                        <div class="message">Updated documentation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0080d6a</div>
+                                        <div class="message">Improved performance</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2e9da83</div>
+                                        <div class="message">Fixed typos</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fbab6d7</div>
+                                        <div class="message">Code cleanup</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a763e00</div>
+                                        <div class="message">Refactored code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#44e08e7</div>
+                                        <div class="message">Fixed minor bug</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#28d5aca</div>
+                                        <div class="message">Updated documentation</div>
                                     </div>
                                 </div>
                             </section>
@@ -3313,15 +3379,127 @@ Cr-Commit-Position: refs/heads/main@{#1396002}</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">PantiesIsStoopid/Nvidia-clips</span>
+                                        Pushed 14 commits in
+                                        <span class="repo">PantiesIsStoopid/GitCommit</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6fc1254</div>
-                                        <div class="message">Merge branch 'master' of https://github.com/PantiesIsStoopid/Nvidia-clips</div>
+                                        <div class="sha">#3f10992</div>
+                                        <div class="message">Fixed typos</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a0cac3</div>
+                                        <div class="message">Optimized algorithm</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#71c865a</div>
+                                        <div class="message">Updated documentation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5095995</div>
+                                        <div class="message">Fixed typos</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b1572a0</div>
+                                        <div class="message">Updated dependencies</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#75569ff</div>
+                                        <div class="message">Refactored code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c418c2</div>
+                                        <div class="message">Optimized algorithm</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b4b4b5</div>
+                                        <div class="message">Code cleanup</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2755bae</div>
+                                        <div class="message">Fixed typos</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e9305a2</div>
+                                        <div class="message">Optimized algorithm</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bcef854</div>
+                                        <div class="message">Fixed typos</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7768e89</div>
+                                        <div class="message">Code cleanup</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c695d34</div>
+                                        <div class="message">Added new feature</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5807a0b</div>
+                                        <div class="message">Fixed typos</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 11 commits in
+                                        <span class="repo">PantiesIsStoopid/GitCommit</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0dc0c95</div>
+                                        <div class="message">Updated documentation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#73bc8a3</div>
+                                        <div class="message">Improved error handling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd7e88b</div>
+                                        <div class="message">Added new feature</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5cd6852</div>
+                                        <div class="message">Improved performance</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c39537c</div>
+                                        <div class="message">Improved error handling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7502a40</div>
+                                        <div class="message">Improved performance</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dc7ad5f</div>
+                                        <div class="message">Refactored code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#efcc72f</div>
+                                        <div class="message">Added new feature</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95e77fc</div>
+                                        <div class="message">Fixed typos</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6500764</div>
+                                        <div class="message">Refactored code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#46be705</div>
+                                        <div class="message">Code cleanup</div>
                                     </div>
                                 </div>
                             </section>
@@ -3340,28 +3518,8 @@ Cr-Commit-Position: refs/heads/main@{#1396002}</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#194395f</div>
-                                        <div class="message">added auto update</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PantiesIsStoopid/PowerShell</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4961982</div>
-                                        <div class="message">remove modules</div>
+                                        <div class="sha">#995ed6f</div>
+                                        <div class="message">Enable Profile Updates</div>
                                     </div>
                                 </div>
                             </section>
@@ -3503,7 +3661,7 @@ Cr-Commit-Position: refs/heads/main@{#1396002}</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="110.67 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="110.97999999999999 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3525,7 +3683,7 @@ Cr-Commit-Position: refs/heads/main@{#1396002}</div>
                                     <span class="prefix">Super</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 857 times</div>
+                                <div class="text">Repositories have been deployed 858 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -3926,7 +4084,7 @@ Cr-Commit-Position: refs/heads/main@{#1396002}</div>
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">PantiesIsStoopid/PowerShell</span>
+                            <span class="blue space">PantiesIsStoopid/GitCommit</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -3934,7 +4092,7 @@ Cr-Commit-Position: refs/heads/main@{#1396002}</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 14 Dec 2024, 14:55:52
+                            On 16 Dec 2024, 10:04:38
                         </div>
                     </section>
                 </div>
@@ -3944,17 +4102,17 @@ Cr-Commit-Position: refs/heads/main@{#1396002}</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            added better fastfetch
+                            Fixed minor bug
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">ca780229</span>
-                            <span class="code">Microsoft.PowerShell_profile.ps1</span>
+                            <span class="code">44e08e76</span>
+                            <span class="code">file.txt</span>
                             <span class="code">
-                                <span class="snippet additions">++1</span>
-                                <span class="snippet deletions">--1</span>
+                                <span class="snippet additions">++0</span>
+                                <span class="snippet deletions">--6</span>
                             </span>
                         </div>
                     </section>
@@ -3962,7 +4120,8 @@ Cr-Commit-Position: refs/heads/main@{#1396002}</div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -106,7 +106,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">#* Run neofetch if not in Visual Studio Code Terminal<br /></span><span class="token prefix unchanged">·</span><span class="token line">if ($terminalType -ne "VS Code Terminal") {<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">fastfetch -c neofetch.jsonc<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">fastfetch --config FastConfig.jsonc<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">}<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">#* Alias</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -463,9 +463,3 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">Commit on 2024-12-15T11:36:07<br /></span><span class="token prefix unchanged">·</span><span class="token line">Commit on 2024-12-15T11:36:07<br /></span><span class="token prefix unchanged">·</span><span class="token line">Commit on 2024-12-15T11:36:07<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">Commit on 2024-12-15T11:36:07<br /></span><span class="token prefix deleted">-</span><span class="token line">Commit on 2024-12-15T11:36:07<br /></span><span class="token prefix deleted">-</span><span class="token line">Commit on 2024-12-15T11:36:07<br /></span><span class="token prefix deleted">-</span><span class="token line">Commit on 2024-12-15T11:36:07<br /></span><span class="token prefix deleted">-</span><span class="token line">Commit on 2024-12-15T11:36:07<br /></span><span class="token prefix deleted">-</span><span class="token line">Commit on 2024-12-15T11:36:07
+</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -3977,14 +4136,14 @@ Cr-Commit-Position: refs/heads/main@{#1396002}</div>
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Dec 2024, 11:18:40 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Dec 2024, 12:44:46 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
