@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3189" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3158" class="">
     <defs>
         <style/>
     </defs>
@@ -30,7 +30,7 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -83,7 +83,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            8259 Commits
+                            8287 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    227k added, 221k removed
+                                    8.68k added, 1.28k removed
                                 </div>
                             </section>
                             <section>
@@ -341,14 +341,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="336.87124989372927" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="336.87124989372927" y="0" width="66.7461354964218" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="403.61738539015107" y="0" width="18.805707112887013" height="8" fill="#e4cc98"/>
-                    <rect mask="url(#languages-bar)" x="422.4230925030381" y="0" width="15.394141857662243" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="437.81723436070035" y="0" width="12.329944339146135" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="450.14717869984645" y="0" width="6.3023089502452985" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="456.4494876500917" y="0" width="2.536014522831952" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="458.9855021729237" y="0" width="1.01449782707628" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="331.82454180299527" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="331.82454180299527" y="0" width="65.74620373572306" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="397.5707455387183" y="0" width="22.05483487371073" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="419.62558041242903" y="0" width="18.52397658744585" height="8" fill="#e4cc98"/>
+                    <rect mask="url(#languages-bar)" x="438.1495569998749" y="0" width="12.145227982750926" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="450.29478498262586" y="0" width="6.207893313471479" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="456.5026782960973" y="0" width="2.49802218892209" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.0007004850194" y="0" width="0.9992995149806259" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -365,15 +365,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#e4cc98" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Tcl
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         PowerShell
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#e4cc98" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Tcl
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2472,7 +2472,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Flow-Launcher/Flow.Launcher</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2737,23 +2737,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>Alex313031/thorium</span>
+                                                <span>ChrisTitusTech/winutil</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.</div>
+                                        <div class="field description">Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                C++
+                                                PowerShell
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                5.14k
+                                                25.8k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -2817,17 +2817,28 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>mylinuxforwork/wallpaper</span>
+                                                <span>kestra-io/kestra</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">My personal collection of wallpapers.</div>
+                                        <div class="field description">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#FFAC33" d="M32.938 15.651C32.792 15.26 32.418 15 32 15H19.925L26.89 1.458c.219-.426.106-.947-.271-1.243C26.437.071 26.218 0 26 0c-.233 0-.466.082-.653.243L18 6.588 3.347 19.243c-.316.273-.43.714-.284 1.105S3.582 21 4 21h12.075L9.11 34.542c-.219.426-.106.947.271 1.243.182.144.401.215.619.215.233 0 .466-.082.653-.243L18 29.412l14.653-12.655c.317-.273.43-.714.285-1.106z"/>
+                                            </svg>
+                                            Workflow Automation Platform. Orchestrate &amp; Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
+                                        </div>
                                         <div class="field infos">
+                                            <div class="language">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                </svg>
+                                                Java
+                                            </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                69
+                                                14.8k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -2866,8 +2877,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bf1c63b</div>
-                                        <div class="message">fix trails</div>
+                                        <div class="sha">#8b19be1</div>
+                                        <div class="message">update background color for changed files in DraculaGit theme and remove blank.txt</div>
                                     </div>
                                 </div>
                             </section>
@@ -2886,8 +2897,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d409be9</div>
-                                        <div class="message">clean</div>
+                                        <div class="sha">#0eb1418</div>
+                                        <div class="message">update background color for changed files in DraculaGit theme and add blank lines to blank.txt</div>
                                     </div>
                                 </div>
                             </section>
@@ -2906,8 +2917,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3b912c5</div>
-                                        <div class="message">fix trianbgle</div>
+                                        <div class="sha">#f79a716</div>
+                                        <div class="message">update background color in DraculaGit theme and add blank fill</div>
                                     </div>
                                 </div>
                             </section>
@@ -2926,8 +2937,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1d41856</div>
-                                        <div class="message">push</div>
+                                        <div class="sha">#17d86f6</div>
+                                        <div class="message">adjust colours</div>
                                     </div>
                                 </div>
                             </section>
@@ -2946,8 +2957,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#59ff184</div>
-                                        <div class="message"> eeee       q       A</div>
+                                        <div class="sha">#81e40f4</div>
+                                        <div class="message">user profile</div>
                                     </div>
                                 </div>
                             </section>
@@ -3089,7 +3100,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.10333333333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3111,7 +3122,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1000 times</div>
+                                <div class="text">Repositories have been deployed 1001 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -3537,10 +3548,10 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">dbe46268</span>
-                            <span class="code">11 Reg and Bat/ppimport.bat</span>
+                            <span class="code">.gitattributes</span>
                             <span class="code">
                                 <span class="snippet additions">++0</span>
-                                <span class="snippet deletions">--3</span>
+                                <span class="snippet deletions">--1</span>
                             </span>
                         </div>
                     </section>
@@ -3548,7 +3559,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,3 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">powercfg -import "c:\Windows\Setup\KhorvieOS.pow" 88888888-4444-4444-9999-123456789abc<br /></span><span class="token prefix deleted">-</span><span class="token line">powercfg /setactive "88888888-4444-4444-9999-123456789abc"<br /></span><span class="token prefix deleted">-</span><span class="token line">powercfg l</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">10[[:space:]]optimizations/Ultimate[[:space:]]Tweaks.exe filter=lfs diff=lfs merge=lfs -text</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -3563,14 +3574,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #2A56FB">Your fortune: Better not tell you now</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Dec 2024, 17:16:36 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Dec 2024, 18:25:09 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
