@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3331" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3203" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.starlist{padding-left:28px;width:460px}.starlist&gt;.count,.starlist&gt;.description{margin-left:32px}.starlist&gt;.count{font-size:12px;color:#666}.starlist .repositories{margin-left:-5px;margin-bottom:20px}.starlist .repository{margin:6px 0 0}.starlist .repository .description,.starlist .repository .infos{font-size:11px}.starlist .repository .name{font-size:14px}.starlist .languages{margin-top:6px;padding-left:13px}.starlist .languages svg.bar{margin-left:18px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.coord{color:#d2a8ff;font-weight:700}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}.gemoji,.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.starlist{padding-left:28px;width:460px}.starlist&gt;.count,.starlist&gt;.description{margin-left:32px}.starlist&gt;.count{font-size:12px;color:#666}.starlist .repositories{margin-left:-5px;margin-bottom:20px}.starlist .repository{margin:6px 0 0}.starlist .repository .description,.starlist .repository .infos{font-size:11px}.starlist .repository .name{font-size:14px}.starlist .languages{margin-top:6px;padding-left:13px}.starlist .languages svg.bar{margin-left:18px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.coord{color:#d2a8ff;font-weight:700}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}.gemoji,.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    18.9k added, 21.8k removed
+                                    227k added, 221k removed
                                 </div>
                             </section>
                             <section>
@@ -407,14 +407,14 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 188 commits)</small>
+                    <small class="h-details">(computed from last 121 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 55.0 characters per line of code written</li>
+                        <li>Has approximately 115.0 characters per line of code written</li>
                         <li>Mostly pushes code around 17:00</li>
-                        <li>Mostly active on Monday</li>
+                        <li>Mostly active on Sunday</li>
                     </ul>
                 </div>
             </section>
@@ -2485,7 +2485,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zen-browser/desktop</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2543,7 +2543,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Flow-Launcher/Flow.Launcher</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2567,7 +2567,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        8.46k
+                                        8.47k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2727,11 +2727,11 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>memstechtips/UnattendedWinstall</span>
+                                                <span>LeDragoX/Win-Debloat-Tools</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 &amp; 11 during the installation process.</div>
+                                        <div class="field description">Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2743,7 +2743,7 @@
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                3.87k
+                                                5.53k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -2761,23 +2761,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>Alex313031/thorium</span>
+                                                <span>memstechtips/UnattendedWinstall</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.</div>
+                                        <div class="field description">Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 &amp; 11 during the installation process.</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                C++
+                                                PowerShell
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                5.15k
+                                                3.87k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -2807,17 +2807,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>mylinuxforwork/wallpaper</span>
+                                                <span>dockur/macos</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">My personal collection of wallpapers.</div>
+                                        <div class="field description">OSX (macOS) inside a Docker container.</div>
                                         <div class="field infos">
+                                            <div class="language">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill="#3572a5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                </svg>
+                                                Python
+                                            </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                72
+                                                9.82k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -2835,64 +2841,37 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>code-charity/youtube</span>
+                                                <span>junegunn/fzf</span>
                                                 <span></span>
                                             </div>
                                         </div>
                                         <div class="field description">
-                                            [top~1 open YouTube &amp; Video browser-extension] - Enrich your experience &amp; choice!
                                             <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#292F33" d="M26 .5H10C8.07.5 6.5 2.07 6.5 4v4h3V4c0-.271.229-.5.5-.5h16c.271 0 .5.229.5.5v4h3V4c0-1.93-1.57-3.5-3.5-3.5z"/>
-                                                <path fill="#DD2E44" d="M36 31.765S36 36 31.765 36H4.235C0 36 0 31.765 0 31.765V11.647c0-4.235 4.235-4.235 4.235-4.235h27.529s4.235 0 4.235 4.235v20.118z"/>
-                                                <path fill="#CCD6DD" d="M4 22h28v2H4z"/>
-                                                <path fill="#BE1931" d="M0 15h36v2H0zm4 9h28v2H4zm0 6h28v2H4z"/>
-                                                <path fill="#CCD6DD" d="M4 28h28v2H4z"/>
-                                                <path fill="#AAB8C2" d="M10 19H8c-.552 0-1-.448-1-1v-4c0-.552.448-1 1-1h2c.552 0 1 .448 1 1v4c0 .552-.448 1-1 1zm18 0h-2c-.552 0-1-.448-1-1v-4c0-.552.448-1 1-1h2c.552 0 1 .448 1 1v4c0 .552-.448 1-1 1z"/>
-                                                <path fill="#292F33" d="M25 17v1c0 .552.448 1 1 1h2c.552 0 1-.448 1-1v-1h-4zM7 17v1c0 .552.448 1 1 1h2c.552 0 1-.448 1-1v-1H7z"/>
-                                                <path fill="#292F33" d="M26 15h2v3h-2zM8 15h2v3H8z"/>
+                                                <path fill="#F4ABBA" d="M31.298 20.807c4.197-1.363 5.027-3.182 4.191-6.416-.952.308-2.105-.001-2.272-.518-.168-.513.581-1.443 1.533-1.753-1.223-3.107-2.964-4.089-7.161-2.727-1.606.522-3.238 1.492-4.655 2.635C23.582 10.327 24 8.475 24 6.786c0-4.412-1.473-5.765-4.807-5.968 0 1-.652 2-1.193 2s-1.194-1-1.194-2C13.472 1.021 12 2.374 12 6.786c0 1.689.417 3.541 1.066 5.241-1.416-1.142-3.049-2.111-4.655-2.633-4.197-1.364-5.938-.381-7.162 2.727.951.31 1.701 1.238 1.534 1.753-.167.515-1.32.826-2.271.518-.837 3.233-.005 5.052 4.19 6.415 1.606.521 3.497.697 5.314.605-1.524.994-2.95 2.247-3.943 3.613-2.594 3.57-2.197 5.53.381 7.654.588-.809 1.703-1.235 2.142-.917.438.317.378 1.511-.21 2.32 2.816 1.795 4.803 1.565 7.396-2.003.993-1.366 1.743-3.111 2.218-4.867.475 1.757 1.226 3.501 2.218 4.867 2.594 3.57 4.58 3.798 7.397 2.003-.587-.81-.649-2.002-.21-2.321.437-.317 1.553.107 2.142.917 2.577-2.123 2.973-4.083.381-7.653-.993-1.366-2.42-2.619-3.943-3.613 1.816.092 3.706-.084 5.313-.605zM18 20.337c-.162-.292-.353-.538-.588-.709-.234-.171-.528-.276-.856-.341.228-.244.403-.502.493-.778.09-.275.1-.587.059-.919.302.141.602.228.892.228s.59-.087.894-.229c-.041.332-.031.644.059.919.09.276.265.534.492.778-.327.065-.621.17-.855.341-.236.172-.428.418-.59.71z"/>
+                                                <g fill="#FFF">
+                                                    <path d="M16.795 18.685c-.12.54-.653.88-1.193.76l-5.858-1.302c-.539-.12-.879-.653-.759-1.193.12-.539.654-.879 1.193-.759l5.857 1.302c.54.12.88.653.76 1.192zm.976.218c.12-.54.654-.88 1.193-.76l5.857 1.302c.54.12.879.653.76 1.193-.12.538-.654.879-1.193.759l-5.857-1.302c-.54-.118-.88-.654-.76-1.192z"/>
+                                                    <path d="M17.771 18.903c-.466.296-1.083.159-1.38-.308l-3.221-5.061c-.296-.466-.16-1.084.307-1.38.466-.297 1.084-.159 1.38.307l3.222 5.062c.295.466.158 1.083-.308 1.38zm.797 1.252c.466-.296 1.084-.159 1.38.307l3.223 5.062c.296.467.159 1.083-.308 1.381-.466.296-1.084.159-1.381-.307l-3.221-5.062c-.296-.466-.157-1.084.307-1.381z"/>
+                                                    <path d="M17.988 17.927c-.539-.12-.879-.654-.759-1.193l1.302-5.857c.119-.539.652-.879 1.192-.759.54.12.879.654.759 1.193l-1.301 5.857c-.119.538-.654.879-1.193.759zm-.217.976c.539.119.879.653.759 1.192l-1.3 5.857c-.121.54-.654.88-1.194.76-.538-.12-.878-.654-.76-1.193l1.303-5.857c.119-.539.653-.879 1.192-.759z"/>
+                                                    <path d="M17.771 18.902c-.297-.466-.159-1.083.307-1.38l5.062-3.221c.466-.296 1.084-.16 1.38.307.297.466.159 1.083-.307 1.38l-5.062 3.221c-.466.297-1.084.16-1.38-.307z"/>
+                                                    <path d="M17.771 18.902c.296.467.159 1.084-.307 1.381l-5.062 3.222c-.466.296-1.083.16-1.381-.308-.296-.465-.159-1.083.307-1.38l5.062-3.222c.467-.296 1.085-.158 1.381.307z"/>
+                                                </g>
+                                                <path d="M22.012 25.566c.932-.592 2.168-.317 2.762.614.593.932.318 2.168-.614 2.762-.932.593-2.168.318-2.762-.614-.592-.932-.318-2.168.614-2.762zM14.55 13.841c-.932.593-2.168.319-2.761-.613-.593-.932-.318-2.168.614-2.761.932-.593 2.168-.318 2.761.613.593.932.318 2.168-.614 2.761zm1.92 10.918c1.078.241 1.758 1.31 1.52 2.388-.24 1.078-1.308 1.758-2.387 1.519-1.079-.24-1.758-1.309-1.519-2.387.239-1.079 1.308-1.758 2.386-1.52zm3.037-13.665c-1.078-.239-1.758-1.308-1.518-2.386.239-1.078 1.308-1.758 2.386-1.519 1.078.24 1.759 1.308 1.519 2.386-.241 1.079-1.309 1.758-2.387 1.519zm-6.013 10.53c.592.933.317 2.169-.614 2.763-.932.593-2.168.318-2.762-.615-.593-.931-.318-2.167.613-2.761.933-.592 2.169-.318 2.763.613zm9.339-5.943c-.593-.932-.317-2.168.614-2.761.932-.593 2.168-.318 2.761.614s.317 2.168-.613 2.761c-.933.593-2.169.318-2.762-.614zm.795 4.524c.24-1.079 1.309-1.759 2.387-1.52 1.078.24 1.758 1.309 1.519 2.387-.24 1.078-1.309 1.758-2.387 1.518-1.079-.238-1.758-1.307-1.519-2.385zm-12.69-2.821c-.24 1.079-1.308 1.758-2.386 1.519-1.078-.24-1.758-1.309-1.519-2.387.239-1.078 1.308-1.758 2.386-1.519 1.079.241 1.758 1.309 1.519 2.387z" fill="#EA596E"/>
+                                                <circle fill="#FFCC4D" cx="18" cy="18.818" r="4"/>
                                             </svg>
-                                            180+ options &amp; clever features
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#BE1931" d="M23.651 23.297L12.702 12.348l9.386-7.821 9.385 9.385z"/>
-                                                <path fill="#DD2E44" d="M34.6 13.912c-1.727 1.729-4.528 1.729-6.255 0l-6.257-6.256c-1.729-1.727-1.729-4.53 0-6.258 1.726-1.727 4.528-1.727 6.257 0L34.6 7.656c1.728 1.727 1.728 4.529 0 6.256z"/>
-                                                <path fill="#99AAB5" d="M14 17.823S-.593 35.029.188 35.813C.97 36.596 18.177 22 18.177 22L14 17.823z"/>
-                                                <path fill="#DD2E44" d="M25.215 27.991c-1.726 1.729-4.528 1.729-6.258 0L8.009 17.041c-1.727-1.728-1.727-4.528 0-6.256 1.728-1.729 4.53-1.729 6.258 0l10.948 10.949c1.728 1.729 1.728 4.528 0 6.257z"/>
-                                            </svg>
-                                            set+forget
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#BE1931" d="M23.651 23.297L12.702 12.348l9.386-7.821 9.385 9.385z"/>
-                                                <path fill="#DD2E44" d="M34.6 13.912c-1.727 1.729-4.528 1.729-6.255 0l-6.257-6.256c-1.729-1.727-1.729-4.53 0-6.258 1.726-1.727 4.528-1.727 6.257 0L34.6 7.656c1.728 1.727 1.728 4.529 0 6.256z"/>
-                                                <path fill="#99AAB5" d="M14 17.823S-.593 35.029.188 35.813C.97 36.596 18.177 22 18.177 22L14 17.823z"/>
-                                                <path fill="#DD2E44" d="M25.215 27.991c-1.726 1.729-4.528 1.729-6.258 0L8.009 17.041c-1.727-1.728-1.727-4.528 0-6.256 1.728-1.729 4.53-1.729 6.258 0l10.948 10.949c1.728 1.729 1.728 4.528 0 6.257z"/>
-                                            </svg>
-                                            Longest-standing(been tough). Please join
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#78B159" d="M26.093 4.612c-.498.498-.629.839-.728 1.029-.66 1.266-1.455 1.676-2.78.351-.13-.13-4.087-4.267-4.741-5.017-.427-.49-1.081-.64-1.584-.262-.38.286-4.035 3.273-5.035 4.507-.774.955-.8 2.134-.079 2.856.326.326.727.449 1.151.578.552.169 1.763.068 2.47.775 1.133 1.133.54 2.924-.917 4.421-1.497 1.457-3.288 2.05-4.421.917-.708-.708-.606-1.918-.775-2.47-.129-.424-.252-.824-.578-1.151-.721-.721-1.9-.694-2.856.079-1.235 1-4.221 4.655-4.507 5.035-.379.503-.228 1.156.262 1.584.75.654 4.887 4.611 5.017 4.741 1.324 1.324.915 2.12-.351 2.78-.19.099-.53.229-1.029.728-1.462 1.462-1.462 3.833 0 5.295 1.462 1.462 3.833 1.462 5.295 0 .498-.498.629-.839.728-1.029.66-1.266 1.455-1.676 2.78-.351.13.13 4.087 4.267 4.741 5.017.427.49 1.081.64 1.584.262.38-.286 4.035-3.273 5.035-4.507.774-.955.8-2.134.079-2.856-.326-.326-.727-.449-1.151-.578-.552-.169-1.763-.068-2.47-.775-1.133-1.133-.54-2.924.917-4.421 1.497-1.457 3.288-2.05 4.421-.917.708.708.606 1.918.775 2.47.129.424.252.824.578 1.151.721.721 1.9.694 2.856-.079 1.235-1 4.221-4.655 4.507-5.035.379-.503.228-1.156-.262-1.584-.75-.654-4.887-4.611-5.017-4.741-1.324-1.324-.915-2.12.351-2.78.19-.099.53-.229 1.029-.728 1.462-1.462 1.462-3.833 0-5.295-1.462-1.463-3.833-1.463-5.295 0z"/>
-                                            </svg>
-                                            us
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#3B88C3" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M14.284 14.196c-.195 0-.263-.255-.097-.353 1.425-.863 2.392-2.5 2.392-4.245 0-1.22-.483-2.389-1.341-3.251a4.57 4.57 0 0 0-6.476 0 4.608 4.608 0 0 0-1.34 3.251c0 1.745.966 3.382 2.391 4.245.166.098.098.353-.098.353C7.11 14.196 5 16.314 5 18.931v9.343c0 .402.322.726.722.726h12.555c.4 0 .723-.323.723-.726v-9.343c0-2.608-2.109-4.735-4.716-4.735Z"/>
-                                                <path fill="#FFF" d="M26.285 14.196c-.196 0-.264-.255-.098-.353 1.425-.863 2.392-2.5 2.392-4.245 0-1.22-.483-2.389-1.341-3.251a4.57 4.57 0 0 0-6.476 0 4.608 4.608 0 0 0-1.34 3.251c0 1.745.966 3.382 2.391 4.245.166.098.098.353-.098.353-2.606 0-4.715 2.118-4.715 4.735v9.343c0 .402.322.726.723.726h12.555c.4 0 .722-.323.722-.726v-9.343c0-2.608-2.109-4.735-4.715-4.735Z"/>
-                                                <path fill="#3B88C3" d="M8.044 23.78a4.761 4.761 0 0 1 4.76-4.76c.224 0 .472.01.725.064a4.758 4.758 0 0 1 3.644 2.796v.001c.727 1.684.402 3.64-.707 5.047a5.393 5.393 0 0 1 1.733 2.982 1.944 1.944 0 0 1-1.905 2.34h-6.97c-.581 0-1.133-.25-1.503-.711a1.932 1.932 0 0 1-.402-1.627v-.001a5.467 5.467 0 0 1 1.734-2.99 5.065 5.065 0 0 1-1.109-3.141Z"/>
-                                                <path fill="#FFF" d="M16.964 30.15a4.22 4.22 0 0 0-2.34-2.96c-.1-.05-.11-.19-.02-.25 1.4-.92 2.16-2.84 1.41-4.58a3.527 3.527 0 0 0-2.69-2.06 3.507 3.507 0 0 0-4.04 3.47c0 1.28.68 2.48 1.7 3.16.09.06.09.21-.02.25a4.182 4.182 0 0 0-2.34 2.96c-.09.44.24.85.68.85h6.97c.46.01.78-.4.69-.84Z"/>
-                                                <path fill="#3B88C3" d="M18.414 23.78a4.761 4.761 0 0 1 4.76-4.76c.224 0 .472.01.725.064a4.757 4.757 0 0 1 3.644 2.796v.001c.727 1.684.402 3.64-.707 5.047a5.393 5.393 0 0 1 1.733 2.982 1.944 1.944 0 0 1-1.905 2.34h-6.97c-.581 0-1.133-.25-1.503-.711a1.932 1.932 0 0 1-.402-1.627v-.001a5.467 5.467 0 0 1 1.734-2.99 5.065 5.065 0 0 1-1.109-3.141Z"/>
-                                                <path fill="#FFF" d="M27.334 30.15a4.22 4.22 0 0 0-2.34-2.96c-.1-.05-.11-.19-.02-.25 1.4-.92 2.16-2.84 1.41-4.58a3.528 3.528 0 0 0-2.69-2.06 3.508 3.508 0 0 0-4.04 3.47c0 1.28.68 2.48 1.7 3.16.09.06.09.21-.02.25a4.181 4.181 0 0 0-2.34 2.96c-.09.44.24.85.68.85h6.97c.46.01.78-.4.69-.84Z"/>
-                                            </svg>
-                                            ..⋮ {playback|conte…
+                                            A command-line fuzzy finder
                                         </div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#00add8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                JavaScript
+                                                Go
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                3.56k
+                                                66.5k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -2931,8 +2910,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#aaffe62</div>
-                                        <div class="message">refactor PowerShell profile and README; remove unused keybindings and update module installation commands</div>
+                                        <div class="sha">#0ece0af</div>
+                                        <div class="message">add oldprofile.ps1 to .gitignore to prevent tracking of obsolete file</div>
                                     </div>
                                 </div>
                             </section>
@@ -2951,8 +2930,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fff81d0</div>
-                                        <div class="message">add PSFzf module installation and keybindings to PowerShell profile and update README</div>
+                                        <div class="sha">#33c9c27</div>
+                                        <div class="message">remove unnecessary blank line in PowerShell profile</div>
                                     </div>
                                 </div>
                             </section>
@@ -2971,8 +2950,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#07446e8</div>
-                                        <div class="message">add PSReadLine module installation and update Setup.ps1 for improved error handling</div>
+                                        <div class="sha">#43e8c48</div>
+                                        <div class="message">refactor PowerShell profile to streamline PSFzf module installation and enhance command autocompletion</div>
                                     </div>
                                 </div>
                             </section>
@@ -2991,8 +2970,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e3638f6</div>
-                                        <div class="message">add DelCmdHistory function to PowerShell profile and update documentation</div>
+                                        <div class="sha">#e9a1a2b</div>
+                                        <div class="message">refactor file listing functions in PowerShell profile for improved clarity</div>
                                     </div>
                                 </div>
                             </section>
@@ -3004,137 +2983,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">PantiesIsStoopid/Chromium</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">PantiesIsStoopid/Nvidia-clips</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4df7bc8</div>
-                                        <div class="message">Roll Chrome Win32 PGO Profile
-
-Roll Chrome Win32 PGO profile from chrome-win32-main-1734933580-e27552ba1f6dfc1d8333c3484538f47fe24681a0-8046f7fde6b872b9abbe3b2a743a74997eca6f41.profdata to chrome-win32-main-1734944378-32aa0b613a1cb1cbcb9a6843dad38f402c7bffc1-811619bb360f66ed4b2fd9150753600d3056d36d.profdata
-
-If this roll has caused a breakage, revert this CL and stop the roller
-using the controls here:
-https://autoroll.skia.org/r/pgo-win32-chromium
-Please CC chrome-brapp-engprod@google.com,pgo-profile-sheriffs@google.com on the revert to ensure that a human
-is aware of the problem.
-
-To file a bug in Chromium main branch: https://bugs.chromium.org/p/chromium/issues/entry
-
-To report a problem with the AutoRoller itself, please file a bug:
-https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
-
-Documentation for the AutoRoller is here:
-https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
-
-Cq-Include-Trybots: luci.chrome.try:win-chrome
-Tbr: pgo-profile-sheriffs@google.com
-Change-Id: I5beb4a7c289f317478006d5b60e83e55233e4d6e
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6119650
-Commit-Queue: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Bot-Commit: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Cr-Commit-Position: refs/heads/main@{#1399763}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#404fbae</div>
-                                        <div class="message">Roll Chrome Win64 PGO Profile
-
-Roll Chrome Win64 PGO profile from chrome-win64-main-1734922756-9c3c23e6c6873cceab61cce74ce7064d30c99265-2b758d7f6b384321fbd622b9d5e4a4fe3859f7b4.profdata to chrome-win64-main-1734933580-4d8839535d11b2c814db4d72203af5ea758e0582-8046f7fde6b872b9abbe3b2a743a74997eca6f41.profdata
-
-If this roll has caused a breakage, revert this CL and stop the roller
-using the controls here:
-https://autoroll.skia.org/r/pgo-win64-chromium
-Please CC chrome-brapp-engprod@google.com,pgo-profile-sheriffs@google.com on the revert to ensure that a human
-is aware of the problem.
-
-To file a bug in Chromium main branch: https://bugs.chromium.org/p/chromium/issues/entry
-
-To report a problem with the AutoRoller itself, please file a bug:
-https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
-
-Documentation for the AutoRoller is here:
-https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
-
-Cq-Include-Trybots: luci.chrome.try:win64-chrome
-Tbr: pgo-profile-sheriffs@google.com
-Change-Id: I7b5bcbdd31f56189a2baa99823f43c4a86102c98
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6119588
-Commit-Queue: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Bot-Commit: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Cr-Commit-Position: refs/heads/main@{#1399762}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4e00708</div>
-                                        <div class="message">[ios] Remove code migrating kLastCookieDeletionDate to PrefService
-
-The key was migrated from NSUserDefaylts to PrefService, this CL
-removes the migration code.
-
-Bug: none
-Change-Id: Ic0ba31d61a7ed1cd7869688c014615853d57e9a8
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6105251
-Commit-Queue: Asami Doi &lt;asamidoi@chromium.org&gt;
-Auto-Submit: Federica Germinario &lt;fedegermi@google.com&gt;
-Reviewed-by: Asami Doi &lt;asamidoi@chromium.org&gt;
-Cr-Commit-Position: refs/heads/main@{#1399761}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#46078d6</div>
-                                        <div class="message">Roll Chrome Mac Arm PGO Profile
-
-Roll Chrome Mac Arm PGO profile from chrome-mac-arm-main-1734947539-ea704703674a9091c1cb2b93a10278db9a41db75-c97a7019c48404a6221dbe1faf47fbb46a75df54.profdata to chrome-mac-arm-main-1734955174-98dc8c7bc5e7f326ab6158f92f6e3fb1c4eb55f3-cd4d4057ce6c26f114210606a77cc5b6d53633c6.profdata
-
-If this roll has caused a breakage, revert this CL and stop the roller
-using the controls here:
-https://autoroll.skia.org/r/pgo-mac-arm-chromium
-Please CC chrome-brapp-engprod@google.com,pgo-profile-sheriffs@google.com on the revert to ensure that a human
-is aware of the problem.
-
-To file a bug in Chromium main branch: https://bugs.chromium.org/p/chromium/issues/entry
-
-To report a problem with the AutoRoller itself, please file a bug:
-https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
-
-Documentation for the AutoRoller is here:
-https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
-
-Cq-Include-Trybots: luci.chrome.try:mac-chrome
-Tbr: pgo-profile-sheriffs@google.com
-Change-Id: Iab6131566a71ae5f91d864c7270cec84b99c5384
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6119813
-Bot-Commit: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Commit-Queue: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Cr-Commit-Position: refs/heads/main@{#1399760}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#696fa6b</div>
-                                        <div class="message">Roll Perfetto Trace Processor Win from 7bf1bcbc57df to 11c2008484f8
-
-https://android.googlesource.com/platform/external/perfetto.git/+log/7bf1bcbc57df..11c2008484f8
-
-If this roll has caused a breakage, revert this CL and stop the roller
-using the controls here:
-https://autoroll.skia.org/r/perfetto-trace-processor-win-chromium
-Please CC chrometto-team@google.com,perfetto-bugs@google.com on the revert to ensure that a human
-is aware of the problem.
-
-To file a bug in Chromium: https://bugs.chromium.org/p/chromium/issues/entry
-
-To report a problem with the AutoRoller itself, please file a bug:
-https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
-
-Documentation for the AutoRoller is here:
-https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
-
-Tbr: perfetto-bugs@google.com
-Change-Id: Ie9f29ba89e22eb37e7460fdcb452ac21e6bac6b4
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6118594
-Commit-Queue: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Bot-Commit: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Cr-Commit-Position: refs/heads/main@{#1399759}</div>
+                                        <div class="sha">#6004b8d</div>
+                                        <div class="message">remove corrupt clips</div>
                                     </div>
                                 </div>
                             </section>
@@ -3276,7 +3133,7 @@ Cr-Commit-Position: refs/heads/main@{#1399759}</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.48 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.5833333333333335 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3298,7 +3155,7 @@ Cr-Commit-Position: refs/heads/main@{#1399759}</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1024 times</div>
+                                <div class="text">Repositories have been deployed 1025 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -3407,7 +3264,7 @@ Cr-Commit-Position: refs/heads/main@{#1399759}</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.38m out of 152m users</span>
+                                    <span class="gh">ranked 2.38m out of 148m users</span>
                                 </div>
                                 <div class="text">Published 25 public repositories</div>
                             </div>
@@ -3527,7 +3384,7 @@ Cr-Commit-Position: refs/heads/main@{#1399759}</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 3.53m out of 152m users</span>
+                                    <span class="gh">ranked 3.53m out of 148m users</span>
                                 </div>
                                 <div class="text">Followed by 4 users</div>
                             </div>
@@ -3699,7 +3556,7 @@ Cr-Commit-Position: refs/heads/main@{#1399759}</div>
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">PantiesIsStoopid/WindowsTweaks</span>
+                            <span class="blue space">PantiesIsStoopid/PowerShell</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -3707,7 +3564,7 @@ Cr-Commit-Position: refs/heads/main@{#1399759}</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 22 Dec 2024, 16:27:44
+                            On 22 Dec 2024, 18:23:42
                         </div>
                     </section>
                 </div>
@@ -3717,14 +3574,14 @@ Cr-Commit-Position: refs/heads/main@{#1399759}</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            compiled into 1 ps1 script
+                            update background color for changed files in DraculaGit theme and remove blank.txt
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">dbe46268</span>
-                            <span class="code">11 Reg and Bat/svcsplit.reg</span>
+                            <span class="code">8b19be11</span>
+                            <span class="code">blank.txt</span>
                             <span class="code">
                                 <span class="snippet additions">++0</span>
                                 <span class="snippet deletions">--4</span>
@@ -3735,7 +3592,7 @@ Cr-Commit-Position: refs/heads/main@{#1399759}</div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,4 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">Windows Registry Editor Version 5.00<br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span><span class="token prefix deleted">-</span><span class="token line">[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control]<br /></span><span class="token prefix deleted">-</span><span class="token line">"SvcHostSplitThresholdInKB"=dword:2000000</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,4 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"><br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span><span class="token prefix deleted">-</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -3750,14 +3607,14 @@ Cr-Commit-Position: refs/heads/main@{#1399759}</div>
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Dec 2024, 17:17:21 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Dec 2024, 18:27:19 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
