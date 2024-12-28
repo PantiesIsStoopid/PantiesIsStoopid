@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4310" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3754" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.starlist{padding-left:28px;width:460px}.starlist&gt;.count,.starlist&gt;.description{margin-left:32px}.starlist&gt;.count{font-size:12px;color:#666}.starlist .repositories{margin-left:-5px;margin-bottom:20px}.starlist .repository{margin:6px 0 0}.starlist .repository .description,.starlist .repository .infos{font-size:11px}.starlist .repository .name{font-size:14px}.starlist .languages{margin-top:6px;padding-left:13px}.starlist .languages svg.bar{margin-left:18px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.coord{color:#d2a8ff;font-weight:700}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}.gemoji,.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.starlist{padding-left:28px;width:460px}.starlist&gt;.count,.starlist&gt;.description{margin-left:32px}.starlist&gt;.count{font-size:12px;color:#666}.starlist .repositories{margin-left:-5px;margin-bottom:20px}.starlist .repository{margin:6px 0 0}.starlist .repository .description,.starlist .repository .infos{font-size:11px}.starlist .repository .name{font-size:14px}.starlist .languages{margin-top:6px;padding-left:13px}.starlist .languages svg.bar{margin-left:18px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.constant{color:#b44418}.token.string{color:#2777aa}.token.tag{color:#48428a}.token.coord{color:#d2a8ff;font-weight:700}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}.gemoji,.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    29.9k added, 21.9k removed
+                                    287k added, 277k removed
                                 </div>
                             </section>
                             <section>
@@ -407,12 +407,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 119 commits)</small>
+                    <small class="h-details">(computed from last 124 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 228.9 characters per line of code written</li>
+                        <li>Has approximately 182.3 characters per line of code written</li>
                         <li>Mostly pushes code around 17:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -2749,23 +2749,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>Alex313031/thorium</span>
+                                                <span>LeDragoX/Win-Debloat-Tools</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.</div>
+                                        <div class="field description">Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                C++
+                                                PowerShell
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                5.16k
+                                                5.55k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -2795,64 +2795,17 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>code-charity/youtube</span>
+                                                <span>jamesqquick/read-me-template</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">
-                                            [top~1 open YouTube &amp; Video browser-extension] - Enrich your experience &amp; choice!
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#292F33" d="M26 .5H10C8.07.5 6.5 2.07 6.5 4v4h3V4c0-.271.229-.5.5-.5h16c.271 0 .5.229.5.5v4h3V4c0-1.93-1.57-3.5-3.5-3.5z"/>
-                                                <path fill="#DD2E44" d="M36 31.765S36 36 31.765 36H4.235C0 36 0 31.765 0 31.765V11.647c0-4.235 4.235-4.235 4.235-4.235h27.529s4.235 0 4.235 4.235v20.118z"/>
-                                                <path fill="#CCD6DD" d="M4 22h28v2H4z"/>
-                                                <path fill="#BE1931" d="M0 15h36v2H0zm4 9h28v2H4zm0 6h28v2H4z"/>
-                                                <path fill="#CCD6DD" d="M4 28h28v2H4z"/>
-                                                <path fill="#AAB8C2" d="M10 19H8c-.552 0-1-.448-1-1v-4c0-.552.448-1 1-1h2c.552 0 1 .448 1 1v4c0 .552-.448 1-1 1zm18 0h-2c-.552 0-1-.448-1-1v-4c0-.552.448-1 1-1h2c.552 0 1 .448 1 1v4c0 .552-.448 1-1 1z"/>
-                                                <path fill="#292F33" d="M25 17v1c0 .552.448 1 1 1h2c.552 0 1-.448 1-1v-1h-4zM7 17v1c0 .552.448 1 1 1h2c.552 0 1-.448 1-1v-1H7z"/>
-                                                <path fill="#292F33" d="M26 15h2v3h-2zM8 15h2v3H8z"/>
-                                            </svg>
-                                            180+ options &amp; clever features
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#BE1931" d="M23.651 23.297L12.702 12.348l9.386-7.821 9.385 9.385z"/>
-                                                <path fill="#DD2E44" d="M34.6 13.912c-1.727 1.729-4.528 1.729-6.255 0l-6.257-6.256c-1.729-1.727-1.729-4.53 0-6.258 1.726-1.727 4.528-1.727 6.257 0L34.6 7.656c1.728 1.727 1.728 4.529 0 6.256z"/>
-                                                <path fill="#99AAB5" d="M14 17.823S-.593 35.029.188 35.813C.97 36.596 18.177 22 18.177 22L14 17.823z"/>
-                                                <path fill="#DD2E44" d="M25.215 27.991c-1.726 1.729-4.528 1.729-6.258 0L8.009 17.041c-1.727-1.728-1.727-4.528 0-6.256 1.728-1.729 4.53-1.729 6.258 0l10.948 10.949c1.728 1.729 1.728 4.528 0 6.257z"/>
-                                            </svg>
-                                            set+forget
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#BE1931" d="M23.651 23.297L12.702 12.348l9.386-7.821 9.385 9.385z"/>
-                                                <path fill="#DD2E44" d="M34.6 13.912c-1.727 1.729-4.528 1.729-6.255 0l-6.257-6.256c-1.729-1.727-1.729-4.53 0-6.258 1.726-1.727 4.528-1.727 6.257 0L34.6 7.656c1.728 1.727 1.728 4.529 0 6.256z"/>
-                                                <path fill="#99AAB5" d="M14 17.823S-.593 35.029.188 35.813C.97 36.596 18.177 22 18.177 22L14 17.823z"/>
-                                                <path fill="#DD2E44" d="M25.215 27.991c-1.726 1.729-4.528 1.729-6.258 0L8.009 17.041c-1.727-1.728-1.727-4.528 0-6.256 1.728-1.729 4.53-1.729 6.258 0l10.948 10.949c1.728 1.729 1.728 4.528 0 6.257z"/>
-                                            </svg>
-                                            Longest-standing(been tough). Please join
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#78B159" d="M26.093 4.612c-.498.498-.629.839-.728 1.029-.66 1.266-1.455 1.676-2.78.351-.13-.13-4.087-4.267-4.741-5.017-.427-.49-1.081-.64-1.584-.262-.38.286-4.035 3.273-5.035 4.507-.774.955-.8 2.134-.079 2.856.326.326.727.449 1.151.578.552.169 1.763.068 2.47.775 1.133 1.133.54 2.924-.917 4.421-1.497 1.457-3.288 2.05-4.421.917-.708-.708-.606-1.918-.775-2.47-.129-.424-.252-.824-.578-1.151-.721-.721-1.9-.694-2.856.079-1.235 1-4.221 4.655-4.507 5.035-.379.503-.228 1.156.262 1.584.75.654 4.887 4.611 5.017 4.741 1.324 1.324.915 2.12-.351 2.78-.19.099-.53.229-1.029.728-1.462 1.462-1.462 3.833 0 5.295 1.462 1.462 3.833 1.462 5.295 0 .498-.498.629-.839.728-1.029.66-1.266 1.455-1.676 2.78-.351.13.13 4.087 4.267 4.741 5.017.427.49 1.081.64 1.584.262.38-.286 4.035-3.273 5.035-4.507.774-.955.8-2.134.079-2.856-.326-.326-.727-.449-1.151-.578-.552-.169-1.763-.068-2.47-.775-1.133-1.133-.54-2.924.917-4.421 1.497-1.457 3.288-2.05 4.421-.917.708.708.606 1.918.775 2.47.129.424.252.824.578 1.151.721.721 1.9.694 2.856-.079 1.235-1 4.221-4.655 4.507-5.035.379-.503.228-1.156-.262-1.584-.75-.654-4.887-4.611-5.017-4.741-1.324-1.324-.915-2.12.351-2.78.19-.099.53-.229 1.029-.728 1.462-1.462 1.462-3.833 0-5.295-1.462-1.463-3.833-1.463-5.295 0z"/>
-                                            </svg>
-                                            us
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#3B88C3" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M14.284 14.196c-.195 0-.263-.255-.097-.353 1.425-.863 2.392-2.5 2.392-4.245 0-1.22-.483-2.389-1.341-3.251a4.57 4.57 0 0 0-6.476 0 4.608 4.608 0 0 0-1.34 3.251c0 1.745.966 3.382 2.391 4.245.166.098.098.353-.098.353C7.11 14.196 5 16.314 5 18.931v9.343c0 .402.322.726.722.726h12.555c.4 0 .723-.323.723-.726v-9.343c0-2.608-2.109-4.735-4.716-4.735Z"/>
-                                                <path fill="#FFF" d="M26.285 14.196c-.196 0-.264-.255-.098-.353 1.425-.863 2.392-2.5 2.392-4.245 0-1.22-.483-2.389-1.341-3.251a4.57 4.57 0 0 0-6.476 0 4.608 4.608 0 0 0-1.34 3.251c0 1.745.966 3.382 2.391 4.245.166.098.098.353-.098.353-2.606 0-4.715 2.118-4.715 4.735v9.343c0 .402.322.726.723.726h12.555c.4 0 .722-.323.722-.726v-9.343c0-2.608-2.109-4.735-4.715-4.735Z"/>
-                                                <path fill="#3B88C3" d="M8.044 23.78a4.761 4.761 0 0 1 4.76-4.76c.224 0 .472.01.725.064a4.758 4.758 0 0 1 3.644 2.796v.001c.727 1.684.402 3.64-.707 5.047a5.393 5.393 0 0 1 1.733 2.982 1.944 1.944 0 0 1-1.905 2.34h-6.97c-.581 0-1.133-.25-1.503-.711a1.932 1.932 0 0 1-.402-1.627v-.001a5.467 5.467 0 0 1 1.734-2.99 5.065 5.065 0 0 1-1.109-3.141Z"/>
-                                                <path fill="#FFF" d="M16.964 30.15a4.22 4.22 0 0 0-2.34-2.96c-.1-.05-.11-.19-.02-.25 1.4-.92 2.16-2.84 1.41-4.58a3.527 3.527 0 0 0-2.69-2.06 3.507 3.507 0 0 0-4.04 3.47c0 1.28.68 2.48 1.7 3.16.09.06.09.21-.02.25a4.182 4.182 0 0 0-2.34 2.96c-.09.44.24.85.68.85h6.97c.46.01.78-.4.69-.84Z"/>
-                                                <path fill="#3B88C3" d="M18.414 23.78a4.761 4.761 0 0 1 4.76-4.76c.224 0 .472.01.725.064a4.757 4.757 0 0 1 3.644 2.796v.001c.727 1.684.402 3.64-.707 5.047a5.393 5.393 0 0 1 1.733 2.982 1.944 1.944 0 0 1-1.905 2.34h-6.97c-.581 0-1.133-.25-1.503-.711a1.932 1.932 0 0 1-.402-1.627v-.001a5.467 5.467 0 0 1 1.734-2.99 5.065 5.065 0 0 1-1.109-3.141Z"/>
-                                                <path fill="#FFF" d="M27.334 30.15a4.22 4.22 0 0 0-2.34-2.96c-.1-.05-.11-.19-.02-.25 1.4-.92 2.16-2.84 1.41-4.58a3.528 3.528 0 0 0-2.69-2.06 3.508 3.508 0 0 0-4.04 3.47c0 1.28.68 2.48 1.7 3.16.09.06.09.21-.02.25a4.181 4.181 0 0 0-2.34 2.96c-.09.44.24.85.68.85h6.97c.46.01.78-.4.69-.84Z"/>
-                                            </svg>
-                                            ..⋮ {playback|conte…
-                                        </div>
+                                        <div class="field description">This is a template to be used when creating ReadMe files for your Github repositories.</div>
                                         <div class="field infos">
-                                            <div class="language">
-                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                                </svg>
-                                                JavaScript
-                                            </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                3.57k
+                                                104
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -2870,23 +2823,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>ThioJoe/Full-Stack-AI-Meme-Generator</span>
+                                                <span>ChrisTitusTech/winutil</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">Uses Various AI Service APIs to generate memes with text and images</div>
+                                        <div class="field description">Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#3572a5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                Python
+                                                PowerShell
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                293
+                                                26.1k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -2919,18 +2872,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">PantiesIsStoopid/WindowsUtility</span>
+                                        <span class="repo">PantiesIsStoopid/wallpapers</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#61c2e39</div>
-                                        <div class="message">Deploying to main from @ ChrisTitusTech/winutil@0dfa9617fc84cddac822c28bc2a9965425c96461 <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#A0041E" d="M1 17l8-7 16 1 1 16-7 8s.001-5.999-6-12-12-6-12-6z"/><path fill="#FFAC33" d="M.973 35s-.036-7.979 2.985-11S15 21.187 15 21.187 14.999 29 11.999 32c-3 3-11.026 3-11.026 3z"/><circle fill="#FFCC4D" cx="8.999" cy="27" r="4"/><path fill="#55ACEE" d="M35.999 0s-10 0-22 10c-6 5-6 14-4 16s11 2 16-4c10-12 10-22 10-22z"/><path d="M26.999 5c-1.623 0-3.013.971-3.641 2.36.502-.227 1.055-.36 1.641-.36 2.209 0 4 1.791 4 4 0 .586-.133 1.139-.359 1.64 1.389-.627 2.359-2.017 2.359-3.64 0-2.209-1.791-4-4-4z"/><path fill="#A0041E" d="M8 28s0-4 1-5 13.001-10.999 14-10-9.001 13-10.001 14S8 28 8 28z"/></svg></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0dfa961</div>
-                                        <div class="message">Deploying to main from @ ChrisTitusTech/winutil@2ce4f54b801c779f999d21d044c308b54d959e8f <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#A0041E" d="M1 17l8-7 16 1 1 16-7 8s.001-5.999-6-12-12-6-12-6z"/><path fill="#FFAC33" d="M.973 35s-.036-7.979 2.985-11S15 21.187 15 21.187 14.999 29 11.999 32c-3 3-11.026 3-11.026 3z"/><circle fill="#FFCC4D" cx="8.999" cy="27" r="4"/><path fill="#55ACEE" d="M35.999 0s-10 0-22 10c-6 5-6 14-4 16s11 2 16-4c10-12 10-22 10-22z"/><path d="M26.999 5c-1.623 0-3.013.971-3.641 2.36.502-.227 1.055-.36 1.641-.36 2.209 0 4 1.791 4 4 0 .586-.133 1.139-.359 1.64 1.389-.627 2.359-2.017 2.359-3.64 0-2.209-1.791-4-4-4z"/><path fill="#A0041E" d="M8 28s0-4 1-5 13.001-10.999 14-10-9.001 13-10.001 14S8 28 8 28z"/></svg></div>
+                                        <div class="sha">#46e3316</div>
+                                        <div class="message">Merge branch 'mylinuxforwork:main' into main</div>
                                     </div>
                                 </div>
                             </section>
@@ -2942,99 +2891,19 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 35 commits in
-                                        <span class="repo">PantiesIsStoopid/ZenBrowser</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">PantiesIsStoopid/ArchDotfiles</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#67556eb</div>
-                                        <div class="message">Fixed compact mode not hiding sometimes and having too much trigger area</div>
+                                        <div class="sha">#1110dc0</div>
+                                        <div class="message">Update</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d6411dc</div>
-                                        <div class="message">Update media query for inactive window styling to improve compatibility with Mica effect</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#86840ee</div>
-                                        <div class="message">Enhance background animation and styling for Zen theme, improving visual transitions and inactive window appearance</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#182de8e</div>
-                                        <div class="message">Fixed context menu icons aligment</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c52bffc</div>
-                                        <div class="message">Disable accent color in titlebar for improved aesthetics</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#50a432b</div>
-                                        <div class="message">Update monthly issue metrics</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c5a0ec3</div>
-                                        <div class="message">Remove 'not planned' filter from issue metrics search query</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f18e58</div>
-                                        <div class="message">Add conditional animation for sidebar in compact mode</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#20c16af</div>
-                                        <div class="message">Merge branch 'dev' of https://github.com/zen-browser/desktop into dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a1debe4</div>
-                                        <div class="message">Update configuration and UI behavior for Zen Browser
-
-- Remove unnecessary comments from mozconfig
-- Disable sign-on remembering in preferences
-- Ensure popups are rolled up when updating vertical tabs
-- Adjust popup hidden event listener to use capture option
-- Bump version numbers in surfer.json for releases</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#80b2079</div>
-                                        <div class="message">Update monthly issue metrics</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dd88086</div>
-                                        <div class="message">Always fire the popup hidden event for customizable UI popups (https://github.com/zen-browser/desktop/issues/2743#)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#40af655</div>
-                                        <div class="message">Update windows-profile-build.yml
-
-Signed-off-by: mr. m  &lt;91018726+mr-cheff@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#055decf</div>
-                                        <div class="message">Add conditional check for artifact download based on architecture</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f1630d</div>
-                                        <div class="message">Attempt to fix arrow keys not working after opening the extensions panel (https://github.com/zen-browser/desktop/issues/2743)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0f1101b</div>
-                                        <div class="message">Restrict URL bar positioning in compact mode to avoid conflicts with floating state</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2df51f8</div>
-                                        <div class="message">Fixed some sites not working when web task scheduling is enabled (closes https://github.com/zen-browser/desktop/issues/3910)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e003fa2</div>
-                                        <div class="message">Disable accent color in titlebar for improved aesthetics</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4470dc1</div>
-                                        <div class="message">Restrict PGO generation and upload to x86_64 architecture in Windows build workflow</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#234346e</div>
-                                        <div class="message">Update Windows build workflows and mozconfig for x86_64 architecture support</div>
+                                        <div class="sha">#e0545ef</div>
+                                        <div class="message">Update waybar default theme</div>
                                     </div>
                                 </div>
                             </section>
@@ -3046,80 +2915,66 @@ Signed-off-by: mr. m  &lt;91018726+mr-cheff@users.noreply.github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 842 commits in
+                                        Pushed 109 commits in
                                         <span class="repo">PantiesIsStoopid/Chromium</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bd72433</div>
-                                        <div class="message">Roll DevTools Frontend from 9c67e203c65b to e032fc22a8e5 (1 revision)
+                                        <div class="sha">#a2f1d70</div>
+                                        <div class="message">Allow threads to be passed to children in content_shell.exe
 
-https://chromium.googlesource.com/devtools/devtools-frontend.git/+log/9c67e203c65b..e032fc22a8e5
+Before this CL, if CsrssLockdown was enabled, content_shell.exe
+would CHECK() when it attempted to transfer a thread handle
+to a child. This is because thread handles have granted access
+of 0x1fffff.
 
-2024-12-23 nancyly@chromium.org [RPP code health] Clean code of main data provider
+This CHECK() only happens on content_shell and not in chrome.exe
+as the handle checker is installed in chrome.dll. content_shell.exe
+is a monolithic executable so all calls to ::DuplicateHandle() in
+content_shell.exe get checked, while before the sandbox IPC call
+was not, as it is in the chrome.exe module, not chrome.dll.
 
-If this roll has caused a breakage, revert this CL and stop the roller
-using the controls here:
-https://autoroll.skia.org/r/devtools-frontend-chromium
-Please CC devtools-waterfall-sheriff-onduty@rotations.google.com,liviurau@google.com on the revert to ensure that a human
-is aware of the problem.
-
-To report a problem with the AutoRoller itself, please file a bug:
-https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
-
-Documentation for the AutoRoller is here:
-https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
-
-Bug: None
-Change-Id: Icafbfc6b87c40b586cca5eabd1b9fe1d14a76ac2
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6119503
-Commit-Queue: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Bot-Commit: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Cr-Commit-Position: refs/heads/main@{#1399783}</div>
+Bug: 40408399
+Change-Id: I4dade90529c5e02f3145addacfe453e3e52d5a25
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6126016
+Reviewed-by: Tom Sepez &lt;tsepez@chromium.org&gt;
+Commit-Queue: Alex Gough &lt;ajgo@chromium.org&gt;
+Cr-Commit-Position: refs/heads/main@{#1400625}</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f175760</div>
-                                        <div class="message">Roll Dawn from 23bb5c065341 to 63466f66842c (1 revision)
+                                        <div class="sha">#134ef9a</div>
+                                        <div class="message">[cleanup] clang-format base.
 
-https://dawn.googlesource.com/dawn.git/+log/23bb5c065341..63466f66842c
+Produced with:
 
-2024-12-23 dawn-autoroll@skia-public.iam.gserviceaccount.com Roll ANGLE from 81a41e4f10f9 to 6bca07bd6f97 (1 revision)
+find base -name \"*.cc\" -o -name \"*.h\" -o -name \"*.mm\" | xargs clang-format -i
 
-If this roll has caused a breakage, revert this CL and stop the roller
-using the controls here:
-https://autoroll.skia.org/r/dawn-chromium-autoroll
-Please CC cwallez@google.com,jrprice@google.com on the revert to ensure that a human
-is aware of the problem.
+base/third_party was then manually reset.
 
-To file a bug in Dawn: https://bugs.chromium.org/p/dawn/issues/entry
-To file a bug in Chromium: https://bugs.chromium.org/p/chromium/issues/entry
+R=pbos@chromium.org
 
-To report a problem with the AutoRoller itself, please file a bug:
-https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
+NO_IFTTT=Reformat only
 
-Documentation for the AutoRoller is here:
-https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
-
-Cq-Include-Trybots: luci.chromium.try:dawn-android-arm-deps-rel;luci.chromium.try:dawn-android-arm64-deps-rel;luci.chromium.try:dawn-linux-x64-deps-rel;luci.chromium.try:dawn-mac-x64-deps-rel;luci.chromium.try:dawn-mac-arm64-deps-rel;luci.chromium.try:dawn-win10-x64-deps-rel;luci.chromium.try:dawn-win10-x86-deps-rel;luci.chromium.try:dawn-win11-arm64-deps-rel;luci.chromium.try:android_optional_gpu_tests_rel;luci.chromium.try:linux_optional_gpu_tests_rel;luci.chromium.try:mac_optional_gpu_tests_rel;luci.chromium.try:win_optional_gpu_tests_rel;luci.chromium.try:gpu-fyi-cq-android-arm64
-Bug: None
-Tbr: jrprice@google.com
-Change-Id: I9af6f0219987e5944779ca6c706f02bc17f3b404
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6119255
-Commit-Queue: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Bot-Commit: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Cr-Commit-Position: refs/heads/main@{#1399782}</div>
+Bug: none
+Change-Id: Ie567eb767d41315fd60e8a17c6aee8a90ff6a3ec
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6117971
+Commit-Queue: Peter Kasting &lt;pkasting@chromium.org&gt;
+Owners-Override: Peter Boström &lt;pbos@chromium.org&gt;
+Auto-Submit: Peter Kasting &lt;pkasting@chromium.org&gt;
+Reviewed-by: Peter Boström &lt;pbos@chromium.org&gt;
+Cr-Commit-Position: refs/heads/main@{#1400624}</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#6ac80e7</div>
-                                        <div class="message">Roll Chrome Android ARM64 PGO Profile
+                                        <div class="sha">#02d2774</div>
+                                        <div class="message">Roll Chrome Win64 PGO Profile
 
-Roll Chrome Android ARM64 PGO profile from chrome-android64-main-1734952730-2b99122750c83f736d12eb603785e03adbdeb183-49c05898c7d2c82d955d98009e170b4ebef2f672.profdata to chrome-android64-main-1734956351-419ac0ea4c796ae9edc52daed111acab6d88d3f2-f3ed243591bbe1ecf2b05361f94f5810e9ed1d2c.profdata
+Roll Chrome Win64 PGO profile from chrome-win64-main-1735322281-aaa2609a25781d25e630884a379a15125e03070a-3bb142348738bf6a2a976d08660cf81e74a2a0fc.profdata to chrome-win64-main-1735333180-f0c86a64e0ecca4f06621f0f113d82672172d2ba-2da1b794d56b5913b55661c71557cb958b229829.profdata
 
 If this roll has caused a breakage, revert this CL and stop the roller
 using the controls here:
-https://autoroll.skia.org/r/pgo-android-arm64-chromium
+https://autoroll.skia.org/r/pgo-win64-chromium
 Please CC chrome-brapp-engprod@google.com,pgo-profile-sheriffs@google.com on the revert to ensure that a human
 is aware of the problem.
 
@@ -3131,147 +2986,19 @@ https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
 Documentation for the AutoRoller is here:
 https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
 
+Cq-Include-Trybots: luci.chrome.try:win64-chrome
 Tbr: pgo-profile-sheriffs@google.com
-Change-Id: I77ea20004949d0a8db175130737051c4587749c5
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6120034
-Bot-Commit: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Commit-Queue: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Cr-Commit-Position: refs/heads/main@{#1399781}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#690a840</div>
-                                        <div class="message">[Extensions c2s] Remove unnecessary flex settings in extensions menu
-
-Incorrect FlexKey caused the extension menu item view container (a
-scroll view) to occupy all constraint space when there is constraint
-space, which resulted in not enough space for other views.
-
-Screenshot: https://drive.google.com/file/d/1nG8hnrC4k3nqxDonJJIOkLZrwikotND6/view?usp=sharing
-
-Fixed: 385271864
-Change-Id: Ib8ee150dc9f473b5a5350a1cba67afb251a2cd85
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6117222
-Reviewed-by: Weidong Liu &lt;weidongliu@chromium.org&gt;
-Commit-Queue: Emilia Paz &lt;emiliapaz@chromium.org&gt;
-Cr-Commit-Position: refs/heads/main@{#1399780}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#29b0d10</div>
-                                        <div class="message">Roll V8 from 18b88b53e859 to 0be76c241b27 (11 revisions)
-
-https://chromium.googlesource.com/v8/v8.git/+log/18b88b53e859..0be76c241b27
-
-2024-12-23 v8-ci-autoroll-builder@chops-service-accounts.iam.gserviceaccount.com Version 13.3.399
-2024-12-23 dima00782@gmail.com [sandbox][isolate-groups] Initialize JDT and CPT for newly created isolate group.
-2024-12-23 pthier@chromium.org Revert "[explicit-resource-management] Ship the feature"
-2024-12-22 v8-ci-autoroll-builder@chops-service-accounts.iam.gserviceaccount.com Update V8 DEPS (trusted)
-2024-12-21 v8-ci-autoroll-builder@chops-service-accounts.iam.gserviceaccount.com Update V8 DEPS (trusted)
-2024-12-21 v8-ci-autoroll-builder@chops-service-accounts.iam.gserviceaccount.com Update V8 DEPS (trusted)
-2024-12-21 mfarazma@redhat.com PPC: fix jspi on pointer compressed builds
-2024-12-20 v8-ci-autoroll-builder@chops-service-accounts.iam.gserviceaccount.com Update V8 DEPS (trusted)
-2024-12-20 ahaas@chromium.org [wasm] Use C++ allocated buffer in generic js-to-wasm wrapper
-2024-12-20 qzmiss@gmail.com [cleanup] Remove unused function in DebuggableStackFrameIterator
-2024-12-20 olivf@chromium.org Reland "[tiering] Re-opt after some lazy deopts"
-
-If this roll has caused a breakage, revert this CL and stop the roller
-using the controls here:
-https://autoroll.skia.org/r/v8-chromium-autoroll
-Please CC liviurau@google.com,machenbach@google.com,v8-waterfall-gardener@grotations.appspotmail.com on the revert to ensure that a human
-is aware of the problem.
-
-To report a problem with the AutoRoller itself, please file a bug:
-https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
-
-Documentation for the AutoRoller is here:
-https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
-
-Cq-Include-Trybots: luci.chromium.try:linux-blink-rel;luci.chromium.try:linux_optional_gpu_tests_rel;luci.chromium.try:mac_optional_gpu_tests_rel;luci.chromium.try:win_optional_gpu_tests_rel;luci.chromium.try:android_optional_gpu_tests_rel;luci.chromium.try:dawn-linux-x64-deps-rel
-Change-Id: I63d72ae7d9b61bb54a42e3a0b3bdfcc5501d21c7
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6120028
-Bot-Commit: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Commit-Queue: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Cr-Commit-Position: refs/heads/main@{#1399779}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ee8a7b</div>
-                                        <div class="message">Automated Commit: LKGM 16137.0.0-1065596 for chromeos.
-
-CrOS Changes (16136.0.0-1065588 -&gt; 16137.0.0-1065596):
-- External: http://go/cros-changes/73513..73520?ext=true
-- Internal: http://go/cros-changes/106994..107002
-
-Uploaded by https://ci.chromium.org/b/8727790886950974945
-
-CQ_INCLUDE_TRYBOTS=luci.chrome.try:chromeos-betty-chrome
-CQ_INCLUDE_TRYBOTS=luci.chrome.try:chromeos-brya-chrome
-CQ_INCLUDE_TRYBOTS=luci.chrome.try:chromeos-jacuzzi-chrome
-CQ_INCLUDE_TRYBOTS=luci.chrome.try:chromeos-reven-chrome
-CQ_INCLUDE_TRYBOTS=luci.chrome.try:chromeos-volteer-chrome-skylab
-CQ_INCLUDE_TRYBOTS=luci.chromium.try:chromeos-octopus-rel
-
-Change-Id: Ie469377f368af212a854080ab3d9c64632aea7f9
-CrOS-LKGM: 16137.0.0-1065596
-Cr-Original-Build-Id: 8727790886950974945
-CrOS-External-Manifest-Position: 73520
-CrOS-Internal-Manifest-Position: 107002
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6119592
-Commit-Queue: ChromeOS bot &lt;3su6n15k.default@developer.gserviceaccount.com&gt;
-Bot-Commit: ChromeOS bot &lt;3su6n15k.default@developer.gserviceaccount.com&gt;
-Cr-Commit-Position: refs/heads/main@{#1399778}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e76c65</div>
-                                        <div class="message">[A11y] Fixes for IAccessibleTextSelectionContainer
-
-Addresses a couple of logic errors preventing selection from working in
-rich subtrees, as opposed to plain text inputs.
-
-Fixed: 40822761
-Change-Id: I3542d35f3896f70a40f0b4e0c90662e636399fad
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6102407
-Commit-Queue: Nektarios Paisios &lt;nektar@chromium.org&gt;
-Reviewed-by: Nektarios Paisios &lt;nektar@chromium.org&gt;
-Auto-Submit: Aaron Leventhal &lt;aleventhal@chromium.org&gt;
-Cr-Commit-Position: refs/heads/main@{#1399777}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4eed167</div>
-                                        <div class="message">Roll Skia from 46df6fed4144 to 044055943952 (1 revision)
-
-https://skia.googlesource.com/skia.git/+log/46df6fed4144..044055943952
-
-2024-12-23 skia-autoroll@skia-public.iam.gserviceaccount.com Roll vulkan-deps from dd42fc42309c to d9e522973bf6 (3 revisions)
-
-If this roll has caused a breakage, revert this CL and stop the roller
-using the controls here:
-https://autoroll.skia.org/r/skia-autoroll
-Please CC jlavrova@google.com,skiabot@google.com on the revert to ensure that a human
-is aware of the problem.
-
-To file a bug in Skia: https://bugs.chromium.org/p/skia/issues/entry
-To file a bug in Chromium: https://bugs.chromium.org/p/chromium/issues/entry
-
-To report a problem with the AutoRoller itself, please file a bug:
-https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
-
-Documentation for the AutoRoller is here:
-https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
-
-Cq-Include-Trybots: luci.chromium.try:android_optional_gpu_tests_rel;luci.chromium.try:gpu-fyi-cq-android-arm64;luci.chromium.try:linux-blink-rel;luci.chromium.try:linux-chromeos-compile-dbg;luci.chromium.try:linux_optional_gpu_tests_rel;luci.chromium.try:mac_optional_gpu_tests_rel;luci.chromium.try:win_optional_gpu_tests_rel
-Cq-Do-Not-Cancel-Tryjobs: true
-Bug: None
-Tbr: jlavrova@google.com
-Change-Id: I0b96c5962900d3d0a48cb5c899c3890bf23b2468
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6119990
+Change-Id: I323a9eec803c4ed2863e5d6542542cd686e3d296
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6128618
 Commit-Queue: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
 Bot-Commit: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Cr-Commit-Position: refs/heads/main@{#1399776}</div>
+Cr-Commit-Position: refs/heads/main@{#1400623}</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2b6ba85</div>
+                                        <div class="sha">#6639dca</div>
                                         <div class="message">Roll Chrome Linux PGO Profile
 
-Roll Chrome Linux PGO profile from chrome-linux-main-1734933580-f26023545abc985bc1545715ff0e315fc853dd5f-8046f7fde6b872b9abbe3b2a743a74997eca6f41.profdata to chrome-linux-main-1734955174-519c993e8e9dbc46b43822dcde04b3cf9084d486-cd4d4057ce6c26f114210606a77cc5b6d53633c6.profdata
+Roll Chrome Linux PGO profile from chrome-linux-main-1735322281-5a2b9574dcbce552dc5f426993d07c457041158b-3bb142348738bf6a2a976d08660cf81e74a2a0fc.profdata to chrome-linux-main-1735343825-a97b5de9a93bff93a2e875879b9b513f1f9cf35f-d027fb43709be0034648b1ab199c4b300ce5b8ef.profdata
 
 If this roll has caused a breakage, revert this CL and stop the roller
 using the controls here:
@@ -3289,58 +3016,21 @@ https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
 
 Cq-Include-Trybots: luci.chrome.try:linux-chrome
 Tbr: pgo-profile-sheriffs@google.com
-Change-Id: Id86dd17b4d286258eb05a61f8067232af0e10904
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6119815
-Commit-Queue: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Change-Id: Ibb2e8bdd2eebe3f9b9b082f51a4ddfbf709bde9e
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6128632
 Bot-Commit: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Cr-Commit-Position: refs/heads/main@{#1399775}</div>
+Commit-Queue: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Cr-Commit-Position: refs/heads/main@{#1400622}</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1614251</div>
-                                        <div class="message">Drop rust_library_rlib, always use rust_ffi_static
+                                        <div class="sha">#7976f04</div>
+                                        <div class="message">Roll Chrome Mac Arm PGO Profile
 
-This is a partial revert of https://r.android.com/3287301. Previously,
-we were generating a rust_library_rlib *and* a rust_ffi_static module
-for every Rust module that at least one cc module directly depends on.
-In practice that doesn't really work because both modules could end up
-being pulled through separate branches of the build tree (libcxx being
-the typical culprit), resulting in duplicate symbols errors when both
-get fed to the linker at the same time.
-
-This commit works around the issue by dropping the rust_library_rlib
-module and only generating rust_ffi_static. This doesn't feel like it
-should work, but in practice it does, and the AOSP Rust build people
-told us it's fine for now.
-
-Bug: b:381421702, b:383552450
-Change-Id: Ie34ec703ceff1df08ddbc8c3dbec93814409be82
-Cq-Include-Trybots: luci.chromium.try:android-cronet-arm64-gn2bp-dbg
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6105391
-Reviewed-by: Mohannad Farrag &lt;aymanm@google.com&gt;
-Commit-Queue: Mohannad Farrag &lt;aymanm@google.com&gt;
-Auto-Submit: Etienne Dechamps &lt;edechamps@google.com&gt;
-Cr-Commit-Position: refs/heads/main@{#1399774}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c196982</div>
-                                        <div class="message">Updating XTBs based on .GRDs from branch main
-
-Change-Id: Ia0fa5a8dc0401242694628f5dd9d21a6b1ffbfe3
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6117693
-Auto-Submit: Ben Mason &lt;benmason@chromium.org&gt;
-Commit-Queue: Rubber Stamper &lt;rubber-stamper@appspot.gserviceaccount.com&gt;
-Bot-Commit: Rubber Stamper &lt;rubber-stamper@appspot.gserviceaccount.com&gt;
-Cr-Commit-Position: refs/heads/main@{#1399773}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5285445</div>
-                                        <div class="message">Roll Chrome Win ARM64 PGO Profile
-
-Roll Chrome Win ARM64 PGO profile from chrome-win-arm64-main-1734933580-ef6c01cb656d5afb316e1e73389cec87b8960a17-8046f7fde6b872b9abbe3b2a743a74997eca6f41.profdata to chrome-win-arm64-main-1734955174-c5b10146f557a99b95cd6dd6b1916b28e4a17287-cd4d4057ce6c26f114210606a77cc5b6d53633c6.profdata
+Roll Chrome Mac Arm PGO profile from chrome-mac-arm-main-1735329417-cc1a9c415086099c18c6ec1100914c61215af26e-24713c0c4eb133fb48df8321036b272343004897.profdata to chrome-mac-arm-main-1735343825-c399f48fe1a395a189a1774c480bf61550f7bc91-d027fb43709be0034648b1ab199c4b300ce5b8ef.profdata
 
 If this roll has caused a breakage, revert this CL and stop the roller
 using the controls here:
-https://autoroll.skia.org/r/pgo-win-arm64-chromium
+https://autoroll.skia.org/r/pgo-mac-arm-chromium
 Please CC chrome-brapp-engprod@google.com,pgo-profile-sheriffs@google.com on the revert to ensure that a human
 is aware of the problem.
 
@@ -3352,18 +3042,169 @@ https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
 Documentation for the AutoRoller is here:
 https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
 
+Cq-Include-Trybots: luci.chrome.try:mac-chrome
 Tbr: pgo-profile-sheriffs@google.com
-Change-Id: If16af91288ff5fb85836a0dfa5656926c12942f5
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6119940
-Commit-Queue: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Change-Id: Ief42389876c2bc6c4fb3c425261c5dcbed10f4e6
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6128636
 Bot-Commit: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Cr-Commit-Position: refs/heads/main@{#1399772}</div>
+Commit-Queue: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Cr-Commit-Position: refs/heads/main@{#1400621}</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5f4b48d</div>
+                                        <div class="sha">#5e35aa9</div>
+                                        <div class="message">VRP FAQ news update - staging
+
+Change-Id: Ibef8d23db21321b2bd6a26090e8b8f20f7889f82
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6128018
+Reviewed-by: Alex Gough &lt;ajgo@chromium.org&gt;
+Commit-Queue: Amy Ressler &lt;amyressler@chromium.org&gt;
+Cr-Commit-Position: refs/heads/main@{#1400620}</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4522421</div>
+                                        <div class="message">Roll libxml from 55ddccb6 to 169857ad
+
+2024-12-13 wellnhofer@aevum.de xmllint: Check return value of htmlNewParserCtxt
+2024-12-13 wellnhofer@aevum.de parser: Also raise error if ctxt is NULL
+2024-12-13 wellnhofer@aevum.de parser: Fix argument checks in xmlCtxtParse*
+2024-12-13 wellnhofer@aevum.de gitlab-ci: Stop including gnome-release-service-ci-templates
+2024-12-13 wellnhofer@aevum.de cmake: Completely remove deprecated options
+2024-12-12 wellnhofer@aevum.de reader: Add argument checks
+2024-12-12 wellnhofer@aevum.de reader: Forward catastrophic errors from XInclude
+2024-12-12 wellnhofer@aevum.de fuzz: Fix IO error check in reader fuzzer
+2024-12-10 wellnhofer@aevum.de gitlab-ci: Re-add llvm
+2024-12-10 wellnhofer@aevum.de gitlab-ci: Remove llvm from CI container
+2024-12-10 wellnhofer@aevum.de Fix typo
+2024-12-09 wellnhofer@aevum.de gitlab-ci: Add "dist" job to build distribution tarball
+2024-12-09 wellnhofer@aevum.de autotools: Add html5ent.inc to EXTRA_DIST
+2024-12-09 wellnhofer@aevum.de gitlab-ci: Add xz-utils for distribution tarballs
+2024-12-09 wellnhofer@aevum.de SAX2: Fix xmlSAX2ResolveEntity if systemId is NULL
+2024-12-07 wellnhofer@aevum.de cmake: Always build Python module as shared library
+2024-12-07 wellnhofer@aevum.de python: Declare init func with PyMODINIT_FUNC
+2024-11-25 wellnhofer@aevum.de fuzz: Silence more OOM errors
+2024-11-25 wellnhofer@aevum.de fuzz: Inject IO failures
+2024-11-26 wellnhofer@aevum.de fuzz: Remove xmlFuzzEntityLoader
+2024-11-26 wellnhofer@aevum.de parser: Pop input stream in xmlCtxtValidateDtd
+2024-11-26 wellnhofer@aevum.de valid: Reset context before validating
+2024-11-26 wellnhofer@aevum.de parser: Make XML_ERR_RESOURCE_LIMIT non-catastrophic
+2024-11-25 wellnhofer@aevum.de parser: Fail on catastrophic errors in recovery mode
+2024-11-25 wellnhofer@aevum.de xinclude: Fix handling of catastrophic errors
+2024-11-25 wellnhofer@aevum.de parser: Don't overwrite catastrophic errors
+2024-11-23 wellnhofer@aevum.de cmake: Only link with winsock2 if HTTP is enabled
+2024-11-23 wellnhofer@aevum.de cmake: Fix indentation in libxml2-config.cmake.in
+2024-11-22 wellnhofer@aevum.de example: Fix indentation in icu.c, mention in NEWS
+2024-11-22 abdulras@thebrowser.company build: add missing `Bcrypt` link on Windows
+2024-11-22 wellnhofer@aevum.de doc: Add example for ICU with xmlCtxtSetCharEncConvImpl
+2024-11-22 wellnhofer@aevum.de cmake: Fix compatibility in package version file
+2024-11-22 wellnhofer@aevum.de build: Remove unused variables
+2024-11-21 wellnhofer@aevum.de cmake: Only build required source files
+2024-11-21 wellnhofer@aevum.de build: Schema doesn't require XPath anymore
+2024-11-21 wellnhofer@aevum.de catalog: Only use XML_SYSCONFDIR if catalogs are enabled
+2024-11-21 wellnhofer@aevum.de build: Only build xmlcatalog executable if enabled
+2024-11-21 wellnhofer@aevum.de build: Define XML_SYSCONFDIR in config.h
+2024-11-20 wellnhofer@aevum.de parser: Deprecate more internal functions
+2024-11-20 wellnhofer@aevum.de regexp: Deprecate internal functions
+2024-11-18 wellnhofer@aevum.de parser: Remove unneeded call to xmlDetectEncoding
+2024-11-17 wellnhofer@aevum.de parser: Remove remaining calls to xml{Push|Pop}Input
+2024-11-17 wellnhofer@aevum.de parser: Rename inputPush to xmlCtxtPushInput
+2024-11-17 wellnhofer@aevum.de parser: Deprecate more internal symbols
+2024-11-18 wellnhofer@aevum.de globals: More comments on future directions
+2024-11-17 wellnhofer@aevum.de valid: Deprecate more internal functions
+2024-11-17 wellnhofer@aevum.de fuzz: Switch to xmlCtxtValidateDocument
+2024-11-17 wellnhofer@aevum.de valid: Implement xmlCtxtValidateDocument
+2024-11-17 wellnhofer@aevum.de valid: Add NULL check in xmlCtxtValidateDtd
+2024-11-17 wellnhofer@aevum.de parser: Check for malloc failure in xmlCtxtParseDtd
+2024-11-15 wellnhofer@aevum.de parser: Implement xmlCtxtParseDtd and xmlCtxtValidateDtd
+2024-11-13 wellnhofer@aevum.de tests: Fix sanitizer version check on old Apple clang
+2024-11-13 wellnhofer@aevum.de build: Check for icu-uc instead of icu-i18n
+2024-11-12 ruslanngaripov@gmail.com parser: Assign value without if-statement
+2024-11-06 wellnhofer@aevum.de xmlIO: Fix reading from non-regular files like pipes
+2024-11-05 wellnhofer@aevum.de xpath: Fix parsing of non-ASCII names
+2024-11-05 wellnhofer@aevum.de xmlreader: Fix return value of xmlTextReaderReadString
+2024-11-01 wellnhofer@aevum.de parser: Fix loading of parameter entities in external DTDs
+2024-10-31 wellnhofer@aevum.de Update README
+2024-10-30 wellnhofer@aevum.de SAX2: Add NULL check for ctxt-&gt;myDoc
+2024-10-30 wellnhofer@aevum.de parser: Fix downstream code that swaps DTDs
+2024-10-28 wellnhofer@aevum.de parser: Rework xmlCtxtGrowAttrs
+2024-10-28 wellnhofer@aevum.de parser: Fix detection of duplicate attributes
+2024-10-25 wellnhofer@aevum.de entities: Allow control chars when serializing HTML
+2024-10-24 wellnhofer@aevum.de parser: Use counted_by attribute if supported
+2024-10-23 wellnhofer@aevum.de nanohttp: Fix another stdout file descriptor
+2024-10-23 wellnhofer@aevum.de nanohttp: Fix stdout file descriptor
+2024-10-19 wellnhofer@aevum.de string: Fix va_copy fallback
+2024-10-14 wellnhofer@aevum.de xpath: Hide internal sort functions
+2024-10-15 yegorslists@googlemail.com python/tests: fix typos
+2024-10-14 wellnhofer@aevum.de Update NEWS
+2024-10-12 satadru@gmail.com Avoid Python 'licence' distribution option is deprecated; use 'license' error
+2024-10-10 wellnhofer@aevum.de fuzz: Don't unlink DTD when replacing nodes
+2024-09-27 wellnhofer@aevum.de xmllint: Improve --memory and --testIO options
+2024-09-27 wellnhofer@aevum.de xmllint: Support --html --sax
+2024-09-26 wellnhofer@aevum.de html: Accelerate htmlParseCharData
+2024-09-26 wellnhofer@aevum.de parser: Clarify logic in xmlParseStartTag2
+2024-09-26 wellnhofer@aevum.de html: Handle numeric character references directly
+2024-09-15 wellnhofer@aevum.de html: Use hash table to check for duplicate attributes
+2024-09-15 wellnhofer@aevum.de html: Make sure that character data mode is reset
+2024-09-12 wellnhofer@aevum.de html: Improve character class macros
+2024-09-12 wellnhofer@aevum.de html: Rewrite parsing of most data
+2024-09-12 wellnhofer@aevum.de html: Optimize htmlParseCharData
+2024-09-12 wellnhofer@aevum.de html: Optimize htmlParseHTMLName
+2024-09-12 wellnhofer@aevum.de html: Deprecate htmlIsBooleanAttr
+2024-09-12 wellnhofer@aevum.de html: Deprecate AutoClose API
+2024-09-12 wellnhofer@aevum.de html: Remove obsolete content model
+2024-09-12 wellnhofer@aevum.de html: Remove obsolete code
+2024-09-12 wellnhofer@aevum.de html: Try to avoid passing XML options to HTML parser
+2024-09-12 wellnhofer@aevum.de test: Fix XML_PARSE_HTML constant
+2024-09-12 wellnhofer@aevum.de html: Fix line numbers with CRs
+2024-09-11 wellnhofer@aevum.de html: Ignore unexpected DOCTYPE declarations
+2024-09-11 wellnhofer@aevum.de html: Rework options
+2024-09-11 wellnhofer@aevum.de parser: Make new options actually work
+2024-09-11 wellnhofer@aevum.de html: Update comment
+2024-09-11 wellnhofer@aevum.de html: Remove unused or useless return codes
+2024-09-11 wellnhofer@aevum.de html: Stop reporting syntax errors
+2024-09-08 wellnhofer@aevum.de html: Test tokenizer against html5lib test suite
+2024-09-11 wellnhofer@aevum.de html: Fix EOF handling in start tags
+2024-09-11 wellnhofer@aevum.de html: Fix EOF handling in comments
+2024-09-11 wellnhofer@aevum.de html: Fix parsing of end tags
+2024-09-09 wellnhofer@aevum.de html: Fix bogus end tags
+2024-09-09 wellnhofer@aevum.de html: Allow U+000C FORM FEED as whitespace
+2024-09-09 wellnhofer@aevum.de html: Fix DOCTYPE parsing
+2024-09-09 wellnhofer@aevum.de html: Don't check for valid XML characters
+2024-09-08 wellnhofer@aevum.de html: Parse numeric character references according to HTML5
+2024-09-08 wellnhofer@aevum.de html: Start to fix EOF and U+0000 handling
+2024-09-08 wellnhofer@aevum.de html: Add HTML5 parser option
+2024-09-08 wellnhofer@aevum.de html: Normalize newlines
+2024-09-08 wellnhofer@aevum.de html: Deduplicate code in htmlCurrentChar
+2024-09-07 wellnhofer@aevum.de html: Parse bogus comments instead of ignoring them
+2024-09-07 wellnhofer@aevum.de html: Add missing calls to htmlCheckParagraph()
+2024-09-07 wellnhofer@aevum.de html: Deduplicate some code
+2024-09-07 wellnhofer@aevum.de html: Simplify node info accounting
+2024-09-07 wellnhofer@aevum.de html: Remove duplicate calls to htmlAutoClose
+2024-09-07 wellnhofer@aevum.de html: Add character data tests
+2024-09-06 wellnhofer@aevum.de html: HTML5 character data states
+2024-09-03 wellnhofer@aevum.de html: Parse named character references according to HTML5
+2022-07-15 wellnhofer@aevum.de html: Prefer SKIP(1) over NEXT in HTML parser
+2023-05-04 wellnhofer@aevum.de html: Rework htmlLookupSequence
+2023-05-04 wellnhofer@aevum.de html: Always terminate doctype declarations on '&gt;'
+2023-05-04 wellnhofer@aevum.de html: Fix quadratic behavior in push parser
+2023-05-04 wellnhofer@aevum.de html: Allow attributes in end tags
+2023-05-04 wellnhofer@aevum.de html: Handle unexpected-solidus-in-tag according to HTML5
+2023-05-04 wellnhofer@aevum.de html: Stop skipping tag content
+2023-05-04 wellnhofer@aevum.de html: Parse tag and attribute names according to HTML5
+2024-09-26 wellnhofer@aevum.de xmllint: Use proper type to store seconds since epoch
+2024-09-25 136447-correctmost@users.noreply.gitlab.gnome.org meson: Fix duplicate listing of libxml2.devhelp2
+2024-09-19 wellnhofer@aevum.de xpath: Deprecate xmlXPathNAN and xmlXPath*INF
+
+Change-Id: I71481e97b143d0008ae43d5382458855003b3c10
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6097175
+Reviewed-by: David Baron &lt;dbaron@chromium.org&gt;
+Commit-Queue: Joey Arhar &lt;jarhar@chromium.org&gt;
+Cr-Commit-Position: refs/heads/main@{#1400619}</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a8e114</div>
                                         <div class="message">Roll Chrome Android ARM32 PGO Profile
 
-Roll Chrome Android ARM32 PGO profile from chrome-android32-main-1734933580-dbe11371abf0a049093b5a99cbb2c7e0dd8e5e6e-8046f7fde6b872b9abbe3b2a743a74997eca6f41.profdata to chrome-android32-main-1734955174-be74f280c8a495ca85153700bd44ed1ccc98f0a6-cd4d4057ce6c26f114210606a77cc5b6d53633c6.profdata
+Roll Chrome Android ARM32 PGO profile from chrome-android32-main-1735322281-df117201817662e84d37d8289ca31aed0f0e2bf0-3bb142348738bf6a2a976d08660cf81e74a2a0fc.profdata to chrome-android32-main-1735343825-d81186e7918fc4b5130c341755dd2f52454be764-d027fb43709be0034648b1ab199c4b300ce5b8ef.profdata
 
 If this roll has caused a breakage, revert this CL and stop the roller
 using the controls here:
@@ -3380,81 +3221,70 @@ Documentation for the AutoRoller is here:
 https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
 
 Tbr: pgo-profile-sheriffs@google.com
-Change-Id: Ibf402c7138fc2f266833be0c515ca6433cbfa6eb
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6119996
-Commit-Queue: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Change-Id: Ib04514e989a34a242a5091504d7f3978de766cdf
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6128769
 Bot-Commit: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Cr-Commit-Position: refs/heads/main@{#1399771}</div>
+Commit-Queue: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Cr-Commit-Position: refs/heads/main@{#1400618}</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#db43379</div>
-                                        <div class="message">Try FROM_HERE without function names
+                                        <div class="sha">#3409b29</div>
+                                        <div class="message">Roll libxslt from 165219e5a to ae147fefb
 
-Looks like this saves ~140k on android-binary-size. Let's give it a go
-on official builds?
+2024-12-09 wellnhofer@aevum.de gitlab-ci: Add "dist" job to build distribution tarball
+2024-12-09 wellnhofer@aevum.de Bump version to 1.1.43
+2024-12-07 wellnhofer@aevum.de cmake: Always build Python module as shared library
+2024-12-07 wellnhofer@aevum.de python: Declare init func with PyMODINIT_FUNC
+2024-11-28 wellnhofer@aevum.de cmake: Fix compatibility in package version file
+2024-11-18 wellnhofer@aevum.de numbers: Use private copy of xmlCopyCharMultiByte
+2024-11-17 wellnhofer@aevum.de documents: Use xmlCtxtParseDocument if available
+2024-11-12 wellnhofer@aevum.de tests: Make runtest compile with older libxml2 versions
+2024-10-14 yegorslists@googlemail.com python: fix typos
+2024-09-20 wellnhofer@aevum.de variables: Evaluate globals in source order
+2024-09-19 wellnhofer@aevum.de variables: Fix non-deterministic generated IDs
+2024-09-19 wellnhofer@aevum.de exslt: Use C99 NAN macro
+2024-08-19 wellnhofer@aevum.de build: Disable EXSLT crypto module by default
+2024-08-19 alessandro.astone@canonical.com configure.ac: Find libgcrypt via pkg-config
+2024-07-30 wellnhofer@aevum.de utils: Account for libxml2 change
+2024-07-23 wellnhofer@aevum.de build: Disable plugins by default
+2024-07-23 wellnhofer@aevum.de tests: Make bug-219.xsl compatible with older libxml2
+2024-07-22 wellnhofer@aevum.de extensions: Don't use libxml2's "modules" feature
+2024-07-23 wellnhofer@aevum.de tests: Adjust for libxml2 change
 
-Bug: 41342136
-Change-Id: Ia565619b91fff9e8fdd3efdf376dbb0cdd236b78
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6099092
-Code-Coverage: findit-for-me@appspot.gserviceaccount.com &lt;findit-for-me@appspot.gserviceaccount.com&gt;
-Owners-Override: Peter Kasting &lt;pkasting@chromium.org&gt;
-Reviewed-by: Peter Kasting &lt;pkasting@chromium.org&gt;
-Commit-Queue: Peter Boström &lt;pbos@chromium.org&gt;
-Cr-Commit-Position: refs/heads/main@{#1399770}</div>
+Change-Id: I19c9e466c2c1c70d82e5c1f46a600fa6b9f6c697
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6097174
+Commit-Queue: Joey Arhar &lt;jarhar@chromium.org&gt;
+Reviewed-by: David Baron &lt;dbaron@chromium.org&gt;
+Cr-Commit-Position: refs/heads/main@{#1400617}</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a52e9be</div>
-                                        <div class="message">Add supervised_user as OWNERS for iOS supervision UI.
+                                        <div class="sha">#ea1c38a</div>
+                                        <div class="message">[clank-q4-fixit] Remove expired tools:targetApi
 
-Bug: N/A
-Change-Id: I22ffbdd1ecb3c4484df4b3f568b0cfdc47fc7846
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6113819
-Commit-Queue: Nohemi Fernandez &lt;fernandex@google.com&gt;
-Reviewed-by: Liza Bipin &lt;mlbipin@google.com&gt;
-Owners-Override: Nohemi Fernandez &lt;fernandex@google.com&gt;
-Cr-Commit-Position: refs/heads/main@{#1399769}</div>
+Remove "tools:targetApi" that's targeting 26 or below.
+
+Bug: 40286955
+Change-Id: I52ad9125e05f09e5abfcd80f6d3d569b8c4fec06
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6127363
+Auto-Submit: Wenyu Fu &lt;wenyufu@chromium.org&gt;
+Commit-Queue: Wenyu Fu &lt;wenyufu@chromium.org&gt;
+Owners-Override: Wenyu Fu &lt;wenyufu@chromium.org&gt;
+Reviewed-by: Sky Malice &lt;skym@chromium.org&gt;
+Cr-Commit-Position: refs/heads/main@{#1400616}</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2b9a931</div>
-                                        <div class="message">spanification: Enable -WUnsafe-buffer-usage to more dirs [2/7]
+                                        <div class="sha">#86f4d2b</div>
+                                        <div class="message">Roll Chrome Win32 PGO Profile
 
-Failing files have been excluded by:
-https://chromium-review.googlesource.com/c/chromium/src/+/6067126
-
-See internal doc about it:
-https://docs.google.com/document/d/1erdcokeh6rfBqs_h0drHqSLtbDbB61j7j3O2Pz8NH78/edit?resourcekey=0-hNe6w1hYAYyVXGEpWI7HVA&amp;tab=t.0
-
-Cq-Include-Trybots: luci.chrome.try:win-chrome
-Cq-Include-Trybots: luci.chrome.try:win64-chrome
-Cq-Include-Trybots: luci.chromium.try:android-arm64-rel
-Cq-Include-Trybots: luci.chromium.try:android-cronet-arm64-rel
-Cq-Include-Trybots: luci.chromium.try:chromeos-arm-generic-rel
-Cq-Include-Trybots: luci.chromium.try:chromeos-libfuzzer-asan-rel
-Cq-Include-Trybots: luci.chromium.try:linux-asan-rel
-Cq-Include-Trybots: luci.chromium.try:linux-cast-arm-rel
-Cq-Include-Trybots: luci.chromium.try:linux-libfuzzer-asan-rel
-Cq-Include-Trybots: luci.chromium.try:win-libfuzzer-asan-rel
-
-Bug: 40285824
-Change-Id: Ifdf1cbc685f7518e271e6d0923a9ff255de6915c
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6108838
-Reviewed-by: Tom Sepez &lt;tsepez@chromium.org&gt;
-Commit-Queue: Arthur Sonzogni &lt;arthursonzogni@chromium.org&gt;
-Cr-Commit-Position: refs/heads/main@{#1399768}</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f55f31c</div>
-                                        <div class="message">Roll Projector App from mU6sjQCLUISqBDt6K... to zn0oiyduOIWQ2t9k4...
-
-Release_Notes: http://go/projector_app-x20/relnotes/Main/projector_app_202412230100_RC00.html
-
-https://chrome-infra-packages.appspot.com/p/chromeos_internal/apps/projector_app/app/+/zn0oiyduOIWQ2t9k4K2FUW4hLB1CgEDaHYxGQrWINV8C
+Roll Chrome Win32 PGO profile from chrome-win32-main-1735311465-bb2f900954637823d80aa5f1222996fbb370ee50-7db797874c7956b888539366b2678eb6641531ae.profdata to chrome-win32-main-1735333180-2bc9bc124560180c09256a2fec19f89db2d7b207-2da1b794d56b5913b55661c71557cb958b229829.profdata
 
 If this roll has caused a breakage, revert this CL and stop the roller
 using the controls here:
-https://skia-autoroll.corp.goog/r/projector-app-chromium-autoroll
-Please CC cros-projector-oncall@grotations.appspotmail.com,cros-projector@google.com on the revert to ensure that a human
+https://autoroll.skia.org/r/pgo-win32-chromium
+Please CC chrome-brapp-engprod@google.com,pgo-profile-sheriffs@google.com on the revert to ensure that a human
 is aware of the problem.
+
+To file a bug in Chromium main branch: https://bugs.chromium.org/p/chromium/issues/entry
 
 To report a problem with the AutoRoller itself, please file a bug:
 https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
@@ -3462,24 +3292,23 @@ https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
 Documentation for the AutoRoller is here:
 https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
 
-Cq-Include-Trybots: luci.chrome.try:chromeos-betty-chrome;luci.chrome.try:linux-chromeos-chrome
-Bug: None
-Tbr: cros-projector-oncall@grotations.appspotmail.com
-Change-Id: I638f7479edd8d443df460069ca4a526f2f583b60
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6119636
-Commit-Queue: chromium-internal-autoroll &lt;chromium-internal-autoroll@skia-corp.google.com.iam.gserviceaccount.com&gt;
-Bot-Commit: chromium-internal-autoroll &lt;chromium-internal-autoroll@skia-corp.google.com.iam.gserviceaccount.com&gt;
-Cr-Commit-Position: refs/heads/main@{#1399767}</div>
+Cq-Include-Trybots: luci.chrome.try:win-chrome
+Tbr: pgo-profile-sheriffs@google.com
+Change-Id: Ibcade3fb2f7c3b1e84a735f4be073956d7ac39b4
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6127959
+Bot-Commit: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Commit-Queue: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Cr-Commit-Position: refs/heads/main@{#1400615}</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a97f4f1</div>
-                                        <div class="message">Roll Perfetto Trace Processor Linux from 7bf1bcbc57df to 11c2008484f8
+                                        <div class="sha">#7912ed1</div>
+                                        <div class="message">Roll Perfetto Trace Processor Win from 9430707b4f04 to 79e2dcdef714
 
-https://android.googlesource.com/platform/external/perfetto.git/+log/7bf1bcbc57df..11c2008484f8
+https://android.googlesource.com/platform/external/perfetto.git/+log/9430707b4f04..79e2dcdef714
 
 If this roll has caused a breakage, revert this CL and stop the roller
 using the controls here:
-https://autoroll.skia.org/r/perfetto-trace-processor-linux-chromium
+https://autoroll.skia.org/r/perfetto-trace-processor-win-chromium
 Please CC chrometto-team@google.com,perfetto-bugs@google.com on the revert to ensure that a human
 is aware of the problem.
 
@@ -3492,25 +3321,38 @@ Documentation for the AutoRoller is here:
 https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
 
 Tbr: perfetto-bugs@google.com
-Change-Id: Ib72707c4f0c63c19cf534c91b2dbac5de0a8411e
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6119233
-Bot-Commit: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Change-Id: I0023794ec89f8c34a6cd9c0621648f8974c34526
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6128680
 Commit-Queue: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Cr-Commit-Position: refs/heads/main@{#1399766}</div>
+Bot-Commit: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Cr-Commit-Position: refs/heads/main@{#1400614}</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#74bd7ff</div>
-                                        <div class="message">Roll DevTools Frontend from 592317b26330 to 9c67e203c65b (1 revision)
+                                        <div class="sha">#fe0ff62</div>
+                                        <div class="message">[sampling profiler] Format core_unwinders_android_unittest.cc
 
-https://chromium.googlesource.com/devtools/devtools-frontend.git/+log/592317b26330..9c67e203c65b
+Avoids 'git cl upload' complaints on modifications.
 
-2024-12-23 devtools-ci-autoroll-builder@chops-service-accounts.iam.gserviceaccount.com Update DevTools DEPS (trusted)
+Bug: 380487894
+Change-Id: Id1db1f8220e32f93a659e0d6fa0f88fa230c1b91
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6087129
+Reviewed-by: Rodney Ding &lt;rodneyding@google.com&gt;
+Commit-Queue: Mike Wittman &lt;wittman@chromium.org&gt;
+Cr-Commit-Position: refs/heads/main@{#1400613}</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#508868a</div>
+                                        <div class="message">Roll Chrome Win ARM64 PGO Profile
+
+Roll Chrome Win ARM64 PGO profile from chrome-win-arm64-main-1735298990-382a030d77cab51bbc6e6d8c44bf7470f5f1442b-098c95b73e8933329e0f39fe7c1ac86c0d11d923.profdata to chrome-win-arm64-main-1735343825-cb3f8ea3d7e32cce32e2f63985b5f3fc39aa67bb-d027fb43709be0034648b1ab199c4b300ce5b8ef.profdata
 
 If this roll has caused a breakage, revert this CL and stop the roller
 using the controls here:
-https://autoroll.skia.org/r/devtools-frontend-chromium
-Please CC devtools-waterfall-sheriff-onduty@rotations.google.com,liviurau@google.com on the revert to ensure that a human
+https://autoroll.skia.org/r/pgo-win-arm64-chromium
+Please CC chrome-brapp-engprod@google.com,pgo-profile-sheriffs@google.com on the revert to ensure that a human
 is aware of the problem.
+
+To file a bug in Chromium main branch: https://bugs.chromium.org/p/chromium/issues/entry
 
 To report a problem with the AutoRoller itself, please file a bug:
 https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
@@ -3518,20 +3360,34 @@ https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
 Documentation for the AutoRoller is here:
 https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
 
-Bug: None
-Change-Id: I4bc5a3ff63bf58e6be1704f61198ccb0c926e9c6
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6119414
-Bot-Commit: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Tbr: pgo-profile-sheriffs@google.com
+Change-Id: Idd019a6463a42f4480957ad00898b54ffa064717
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6128684
 Commit-Queue: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Cr-Commit-Position: refs/heads/main@{#1399765}</div>
+Bot-Commit: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Cr-Commit-Position: refs/heads/main@{#1400612}</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a8ea71a</div>
-                                        <div class="message">Roll ANGLE from 6bca07bd6f97 to 501f07a6dd53 (1 revision)
+                                        <div class="sha">#d7c1d18</div>
+                                        <div class="message">Adjust fuzzy for android customizable select WPTs
 
-https://chromium.googlesource.com/angle/angle.git/+log/6bca07bd6f97..501f07a6dd53
+This patch widens the fuzzy parameters for some customizable select WPTs
+on android.
 
-2024-12-23 angle-autoroll@skia-public.iam.gserviceaccount.com Roll vulkan-deps from 45d90843193e to d9e522973bf6 (8 revisions)
+Bug: 386249939
+Change-Id: I0c3107bb26af3db5358793f9dcf37d6e1d762559
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6127489
+Reviewed-by: Di Zhang &lt;dizhangg@chromium.org&gt;
+Commit-Queue: Joey Arhar &lt;jarhar@chromium.org&gt;
+Cr-Commit-Position: refs/heads/main@{#1400611}</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2152d60</div>
+                                        <div class="message">Roll ANGLE from aa263d13bb22 to a614c8abaf96 (1 revision)
+
+https://chromium.googlesource.com/angle/angle.git/+log/aa263d13bb22..a614c8abaf96
+
+2024-12-27 shufen.ma@arm.com Check alpha in ColorMask for YUV target
 
 If this roll has caused a breakage, revert this CL and stop the roller
 using the controls here:
@@ -3551,115 +3407,108 @@ https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
 Cq-Include-Trybots: luci.chromium.try:android_optional_gpu_tests_rel;luci.chromium.try:linux_optional_gpu_tests_rel;luci.chromium.try:mac_optional_gpu_tests_rel;luci.chromium.try:win_optional_gpu_tests_rel;luci.chromium.try:linux-swangle-try-x64;luci.chromium.try:win-swangle-try-x86
 Bug: None
 Tbr: syoussefi@google.com
-Change-Id: If99e89305f6bcb43388b94e1254e3eda080d04ac
-Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6119408
+Change-Id: I5bfbc34663faf65c2c9d9bfcc0c1c71b67bd2da5
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6125628
 Commit-Queue: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
 Bot-Commit: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
-Cr-Commit-Position: refs/heads/main@{#1399764}</div>
+Cr-Commit-Position: refs/heads/main@{#1400610}</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 20 commits in
-                                        <span class="repo">PantiesIsStoopid/ArchDotfiles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d2c7783</div>
-                                        <div class="message">Merge pull request #563 from martinpiz097/feature/waybar-blur
+                                        <div class="sha">#5e576a0</div>
+                                        <div class="message">[clank-q4-fixit] Rename ListMenuButtonDelegate to ListMenuDelegate
 
-feat: Blur is added to the waybar from a layerrule, this way the wayb…</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#81e63c3</div>
-                                        <div class="message">Merge pull request #564 from Saifullah-Balghari/patch-1
+Also update the PopupMenuShownListener to point to the interface
+in ListMenuHost
 
-Update README.md</div>
+Bug: 339864862
+Change-Id: Ibf1db005ea77dbcfe348bc8423075e07db24a302
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6121010
+Reviewed-by: Lijin Shen &lt;lazzzis@google.com&gt;
+Code-Coverage: findit-for-me@appspot.gserviceaccount.com &lt;findit-for-me@appspot.gserviceaccount.com&gt;
+Commit-Queue: Wenyu Fu &lt;wenyufu@chromium.org&gt;
+Owners-Override: Wenyu Fu &lt;wenyufu@chromium.org&gt;
+Cr-Commit-Position: refs/heads/main@{#1400609}</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c3dffdd</div>
-                                        <div class="message">fix: blur layerrule changed to custom.conf file</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2af39a3</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01d12be</div>
-                                        <div class="message">feat: Blur is added to the waybar from a layerrule, this way the waybar uses the blur configured in the system (It is recommended to configure a white background with opacity 0.1 to correctly visualize the effect)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e0f3bf</div>
-                                        <div class="message">Updates</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cbacc1a</div>
-                                        <div class="message">Add oh-my-posh prompt to bash</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7864b73</div>
-                                        <div class="message">Update</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e4d8ed2</div>
-                                        <div class="message">Update</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a34990c</div>
-                                        <div class="message">Merge pull request #559 from martinpiz097/feature/fix-wallpaper-restore
+                                        <div class="sha">#7fe6925</div>
+                                        <div class="message">Automated Commit: LKGM 16141.0.0-1065692 for chromeos.
 
-fix: sed command is added to replace ~ with the value of the /home/ma…</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a378542</div>
-                                        <div class="message">Updates</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#532b83e</div>
-                                        <div class="message">Updates</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#14b0e37</div>
-                                        <div class="message">Merge pull request #557 from JumpIn-Git/main
+CrOS Changes (16141.0.0-1065689 -&gt; 16141.0.0-1065692):
+- External: http://go/cros-changes/73611..73614?ext=true
+- Internal: http://go/cros-changes/107095..107098
 
-Make checking for updates on arch faster/better</div>
+Uploaded by https://ci.chromium.org/b/8727383124150191777
+
+CQ_INCLUDE_TRYBOTS=luci.chrome.try:chromeos-betty-chrome
+CQ_INCLUDE_TRYBOTS=luci.chrome.try:chromeos-brya-chrome
+CQ_INCLUDE_TRYBOTS=luci.chrome.try:chromeos-jacuzzi-chrome
+CQ_INCLUDE_TRYBOTS=luci.chrome.try:chromeos-reven-chrome
+CQ_INCLUDE_TRYBOTS=luci.chrome.try:chromeos-volteer-chrome-skylab
+CQ_INCLUDE_TRYBOTS=luci.chromium.try:chromeos-octopus-rel
+
+Change-Id: I1cb447e298df70b9d9da6fee99101d07050fe579
+CrOS-LKGM: 16141.0.0-1065692
+Cr-Original-Build-Id: 8727383124150191777
+CrOS-External-Manifest-Position: 73614
+CrOS-Internal-Manifest-Position: 107098
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6127905
+Commit-Queue: ChromeOS bot &lt;3su6n15k.default@developer.gserviceaccount.com&gt;
+Bot-Commit: ChromeOS bot &lt;3su6n15k.default@developer.gserviceaccount.com&gt;
+Cr-Commit-Position: refs/heads/main@{#1400608}</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#677c2c0</div>
-                                        <div class="message">fix: sed command is added to replace ~ with the value of the /home/martin variable, because the  file saves the path of the chosen wallpaper with the reference ~ and the wallpaper-restore script cannot find the file</div>
+                                        <div class="sha">#e1db67e</div>
+                                        <div class="message">Roll Chrome Android ARM64 PGO Profile
+
+Roll Chrome Android ARM64 PGO profile from chrome-android64-main-1735337049-b4e2c9a8bd6b3e2f01290a8a1caaf3048fff83a9-7fcfc423cc2adeb5a784226b476ddda57bb99935.profdata to chrome-android64-main-1735340971-0739c347d2e762ac13765c666d683d2748142897-444467ea79178f5798eecda7e48d6eeaf1d4bb0d.profdata
+
+If this roll has caused a breakage, revert this CL and stop the roller
+using the controls here:
+https://autoroll.skia.org/r/pgo-android-arm64-chromium
+Please CC chrome-brapp-engprod@google.com,pgo-profile-sheriffs@google.com on the revert to ensure that a human
+is aware of the problem.
+
+To file a bug in Chromium main branch: https://bugs.chromium.org/p/chromium/issues/entry
+
+To report a problem with the AutoRoller itself, please file a bug:
+https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
+
+Documentation for the AutoRoller is here:
+https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
+
+Tbr: pgo-profile-sheriffs@google.com
+Change-Id: Ib88a777dd0d61492d0488b3fcb50c294c34e7ea5
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6128624
+Commit-Queue: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Bot-Commit: chromium-autoroll &lt;chromium-autoroll@skia-public.iam.gserviceaccount.com&gt;
+Cr-Commit-Position: refs/heads/main@{#1400607}</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#fc558d4</div>
-                                        <div class="message">make arch check updates faster</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4916a5a</div>
-                                        <div class="message">Updates</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ebe38fb</div>
-                                        <div class="message">Updates</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#595371b</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#66308ef</div>
-                                        <div class="message">Update wlogout keybinding</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a820233</div>
-                                        <div class="message">Updates</div>
+                                        <div class="sha">#2192fb5</div>
+                                        <div class="message">Roll clank/internal/apps from 3214dff93e0c to 8ab9d5b7ab7c (1 revision)
+
+https://chrome-internal.googlesource.com/clank/internal/apps.git/+log/3214dff93e0c..8ab9d5b7ab7c
+
+If this roll has caused a breakage, revert this CL and stop the roller
+using the controls here:
+https://skia-autoroll.corp.goog/r/clank-apps-chromium-autoroll
+Please CC chrome-brapp-engprod@google.com,skym@google.com on the revert to ensure that a human
+is aware of the problem.
+
+To report a problem with the AutoRoller itself, please file a bug:
+https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
+
+Documentation for the AutoRoller is here:
+https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md
+
+Bug: None
+Tbr: skym@google.com
+No-Try: true
+Change-Id: Ic0419ab66c06ba03598de3602c731617c44fd2c5
+Reviewed-on: https://chromium-review.googlesource.com/c/chromium/src/+/6123603
+Commit-Queue: chromium-internal-autoroll &lt;chromium-internal-autoroll@skia-corp.google.com.iam.gserviceaccount.com&gt;
+Bot-Commit: chromium-internal-autoroll &lt;chromium-internal-autoroll@skia-corp.google.com.iam.gserviceaccount.com&gt;
+Cr-Commit-Position: refs/heads/main@{#1400606}</div>
                                     </div>
                                 </div>
                             </section>
@@ -3672,14 +3521,68 @@ Make checking for updates on arch faster/better</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">PantiesIsStoopid/PowerShell</span>
+                                        <span class="repo">PantiesIsStoopid/WindowsUtility</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d8979a3</div>
-                                        <div class="message">remove cd alias</div>
+                                        <div class="sha">#28bea51</div>
+                                        <div class="message">Add exception catch for Unauthorized Access (#3114)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 9 commits in
+                                        <span class="repo">PantiesIsStoopid/ZenBrowser</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2cb16a8</div>
+                                        <div class="message">Update README.md
+
+Signed-off-by: mr. m  &lt;91018726+mr-cheff@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f241bfb</div>
+                                        <div class="message">Updated confetti animation parameters for improved visual effects</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#075482b</div>
+                                        <div class="message">Fixed naming issues between sidebar and web panels (closes https://github.com/zen-browser/desktop/issues/4043) (https://github.com/zen-browser/desktop/issues/4035)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a76a50</div>
+                                        <div class="message">Fixed UI issue making un-selected search engines looking like they are selected on the onboarding page (closes https://github.com/zen-browser/desktop/issues/4040) (https://github.com/zen-browser/desktop/issues/4035)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c3c64e</div>
+                                        <div class="message">Fixed onboarding layout section title aligment (closes https://github.com/zen-browser/desktop/issues/4039) (https://github.com/zen-browser/desktop/issues/4035)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bd2c676</div>
+                                        <div class="message">Fixed hover colors of primary buttons on the onboarding page (closes https://github.com/zen-browser/desktop/issues/4038) (https://github.com/zen-browser/desktop/issues/4035)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f6ef53b</div>
+                                        <div class="message">Fixed onboardin spacing when selecting themes (closes https://github.com/zen-browser/desktop/issues/4037) (https://github.com/zen-browser/desktop/issues/4035)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c496b5</div>
+                                        <div class="message">Fixed on boarding search engine icons (closes https://github.com/zen-browser/desktop/issues/3575) and improved animation speed/delays as well (https://github.com/zen-browser/desktop/issues/4035)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#50320d9</div>
+                                        <div class="message">Implement confetti animation and update Zen Rices component styles and logic</div>
                                     </div>
                                 </div>
                             </section>
@@ -3821,7 +3724,7 @@ Make checking for updates on arch faster/better</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.776666666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.88 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3843,7 +3746,7 @@ Make checking for updates on arch faster/better</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1143 times</div>
+                                <div class="text">Repositories have been deployed 1144 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -4295,14 +4198,14 @@ Make checking for updates on arch faster/better</div>
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #16F174">Your fortune: （　´_ゝ`）ﾌｰﾝ </b>
+                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Dec 2024, 21:18:15 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Dec 2024, 22:17:50 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
