@@ -1,1 +1,1 @@
-![Alt Text](github-metrics.svg)
+![AltText](github-metrics.svg)
