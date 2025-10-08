@@ -1,1 +1,9 @@
-<iframe src="https://open.spotify.com/embed/playlist/09RyVpT3LKFGvz5jkJuQW4?utm_source=generator&theme=0" width="" height="" frameborder="0" allowtransparency="" allow=""></iframe>
+<div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden;">
+  <iframe 
+    src="https://open.spotify.com/embed/playlist/09RyVpT3LKFGvz5jkJuQW4?utm_source=generator&theme=0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+    allowtransparency="true" 
+    loading="lazy">
+  </iframe>
+</div>
