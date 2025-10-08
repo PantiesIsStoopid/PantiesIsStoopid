@@ -1,2 +1,2 @@
-![AltText](github-metrics.svg)
-![AltText](playlist.svg)
+![Metrics](github-metrics.svg)
+![Playlist](playlist.svg)
