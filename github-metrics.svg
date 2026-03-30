@@ -30,19 +30,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -631,6 +631,9 @@
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="94" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
+                                <g transform="translate(195, 0)">
+                                    <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                </g>
                             </g>
                             <g transform="translate(0, 144)">
                                 <text x="0" y="0">2025</text>
@@ -1154,18 +1157,18 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.5083698171516868 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.5078466683817855 329"/>
                                     <text x="60" y="50" dominant-baseline="central">6</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3883</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3887</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.113490364025696 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.1112299465240643 329"/>
                                     <text x="60" y="50" dominant-baseline="central">6</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/934</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/935</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
@@ -1174,7 +1177,7 @@
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0 329"/>
                                     <text x="60" y="50" dominant-baseline="central">0</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2032</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2033</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
@@ -1183,7 +1186,7 @@
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0 329"/>
                                     <text x="60" y="50" dominant-baseline="central">0</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/917</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/919</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -1229,7 +1232,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Mar 2026, 02:59:38 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Mar 2026, 03:02:16 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
